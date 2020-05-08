@@ -1,0 +1,13 @@
+name: py38_covid
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - pandas
+  - seaborn
+  - ipykernel
+  - scikit-learn
+  - tqdm
+prefix: /anaconda/envs/py38_covid
+
