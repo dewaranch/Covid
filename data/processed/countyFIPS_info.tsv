@@ -1,0 +1,3042 @@
+	STATEFP	COUNTYFP	CountyName	StateName	State
+01001	1.0	1.0	Autauga	AL	Alabama
+01003	1.0	3.0	Baldwin	AL	Alabama
+01005	1.0	5.0	Barbour	AL	Alabama
+01007	1.0	7.0	Bibb	AL	Alabama
+01009	1.0	9.0	Blount	AL	Alabama
+01011	1.0	11.0	Bullock	AL	Alabama
+01013	1.0	13.0	Butler	AL	Alabama
+01015	1.0	15.0	Calhoun	AL	Alabama
+01017	1.0	17.0	Chambers	AL	Alabama
+01019	1.0	19.0	Cherokee	AL	Alabama
+01021	1.0	21.0	Chilton	AL	Alabama
+01023	1.0	23.0	Choctaw	AL	Alabama
+01025	1.0	25.0	Clarke	AL	Alabama
+01027	1.0	27.0	Clay	AL	Alabama
+01029	1.0	29.0	Cleburne	AL	Alabama
+01033	1.0	33.0	Colbert	AL	Alabama
+01035	1.0	35.0	Conecuh	AL	Alabama
+01037	1.0	37.0	Coosa	AL	Alabama
+01039	1.0	39.0	Covington	AL	Alabama
+01041	1.0	41.0	Crenshaw	AL	Alabama
+01043	1.0	43.0	Cullman	AL	Alabama
+01045	1.0	45.0	Dale	AL	Alabama
+01047	1.0	47.0	Dallas	AL	Alabama
+01049	1.0	49.0	De Kalb	AL	Alabama
+01051	1.0	51.0	Elmore	AL	Alabama
+01053	1.0	53.0	Escambia	AL	Alabama
+01055	1.0	55.0	Etowah	AL	Alabama
+01057	1.0	57.0	Fayette	AL	Alabama
+01059	1.0	59.0	Franklin	AL	Alabama
+01061	1.0	61.0	Geneva	AL	Alabama
+01063	1.0	63.0	Greene	AL	Alabama
+01065	1.0	65.0	Hale	AL	Alabama
+01067	1.0	67.0	Henry	AL	Alabama
+01069	1.0	69.0	Houston	AL	Alabama
+01071	1.0	71.0	Jackson	AL	Alabama
+01073	1.0	73.0	Jefferson	AL	Alabama
+01075	1.0	75.0	Lamar	AL	Alabama
+01079	1.0	79.0	Lawrence	AL	Alabama
+01081	1.0	81.0	Lee	AL	Alabama
+01083	1.0	83.0	Limestone	AL	Alabama
+01085	1.0	85.0	Lowndes	AL	Alabama
+01087	1.0	87.0	Macon	AL	Alabama
+01089	1.0	89.0	Madison	AL	Alabama
+01091	1.0	91.0	Marengo	AL	Alabama
+01093	1.0	93.0	Marion	AL	Alabama
+01095	1.0	95.0	Marshall	AL	Alabama
+01097	1.0	97.0	Mobile	AL	Alabama
+01099	1.0	99.0	Monroe	AL	Alabama
+01101	1.0	101.0	Montgomery	AL	Alabama
+01103	1.0	103.0	Morgan	AL	Alabama
+01105	1.0	105.0	Perry	AL	Alabama
+01107	1.0	107.0	Pickens	AL	Alabama
+01109	1.0	109.0	Pike	AL	Alabama
+01111	1.0	111.0	Randolph	AL	Alabama
+01113	1.0	113.0	Russell	AL	Alabama
+01115	1.0	115.0	St Clair	AL	Alabama
+01117	1.0	117.0	Shelby	AL	Alabama
+01119	1.0	119.0	Sumter	AL	Alabama
+01121	1.0	121.0	Talladega	AL	Alabama
+01123	1.0	123.0	Tallapoosa	AL	Alabama
+01125	1.0	125.0	Tuscaloosa	AL	Alabama
+01127	1.0	127.0	Walker	AL	Alabama
+01129	1.0	129.0	Washington	AL	Alabama
+01131	1.0	131.0	Wilcox	AL	Alabama
+01133	1.0	133.0	Winston	AL	Alabama
+02013	2.0	13.0	Aleutians East	AK	Alaska
+02016	2.0	16.0	Aleutians West	AK	Alaska
+02020	2.0	20.0	Anchorage	AK	Alaska
+02050	2.0	50.0	Bethel	AK	Alaska
+02060	2.0	60.0	Bristol Bay	AK	Alaska
+02068	2.0	68.0	Denali	AK	Alaska
+02070	2.0	70.0	Dillingham	AK	Alaska
+02090	2.0	90.0	Fairbanks North Star	AK	Alaska
+02100	2.0	100.0	Haines	AK	Alaska
+02122	2.0	122.0	Kenai Peninsula	AK	Alaska
+02130	2.0	130.0	Ketchikan Gateway	AK	Alaska
+02150	2.0	150.0	Kodiak Island	AK	Alaska
+02164	2.0	164.0	Lake and Peninsula	AK	Alaska
+02170	2.0	170.0	Matanuska-Susitna	AK	Alaska
+02180	2.0	180.0	Nome	AK	Alaska
+02185	2.0	185.0	North Slope	AK	Alaska
+02188	2.0	188.0	Northwest Arctic	AK	Alaska
+02220	2.0	220.0	Sitka	AK	Alaska
+02240	2.0	240.0	Southeast Fairbanks	AK	Alaska
+02261	2.0	261.0	Valdez-Cordova	AK	Alaska
+02270	2.0	270.0	Wade Hampton	AK	Alaska
+02282	2.0	282.0	Yakutat	AK	Alaska
+02290	2.0	290.0	Yukon-Koyukuk	AK	Alaska
+04001	4.0	1.0	Apache	AZ	Arizona
+04003	4.0	3.0	Cochise	AZ	Arizona
+04005	4.0	5.0	Coconino	AZ	Arizona
+04007	4.0	7.0	Gila	AZ	Arizona
+04009	4.0	9.0	Graham	AZ	Arizona
+04011	4.0	11.0	Greenlee	AZ	Arizona
+04012	4.0	12.0	La Paz	AZ	Arizona
+04013	4.0	13.0	Maricopa	AZ	Arizona
+04015	4.0	15.0	Mohave	AZ	Arizona
+04017	4.0	17.0	Navajo	AZ	Arizona
+04019	4.0	19.0	Pima	AZ	Arizona
+04021	4.0	21.0	Pinal	AZ	Arizona
+04023	4.0	23.0	Santa Cruz	AZ	Arizona
+04025	4.0	25.0	Yavapai	AZ	Arizona
+04027	4.0	27.0	Yuma	AZ	Arizona
+05001	5.0	1.0	Arkansas	AR	Arkansas
+05003	5.0	3.0	Ashley	AR	Arkansas
+05005	5.0	5.0	Baxter	AR	Arkansas
+05007	5.0	7.0	Benton	AR	Arkansas
+05009	5.0	9.0	Boone	AR	Arkansas
+05011	5.0	11.0	Bradley	AR	Arkansas
+05013	5.0	13.0	Calhoun	AR	Arkansas
+05015	5.0	15.0	Carroll	AR	Arkansas
+05017	5.0	17.0	Chicot	AR	Arkansas
+05019	5.0	19.0	Clark	AR	Arkansas
+05021	5.0	21.0	Clay	AR	Arkansas
+05023	5.0	23.0	Cleburne	AR	Arkansas
+05025	5.0	25.0	Cleveland	AR	Arkansas
+05027	5.0	27.0	Columbia	AR	Arkansas
+05029	5.0	29.0	Conway	AR	Arkansas
+05033	5.0	33.0	Crawford	AR	Arkansas
+05035	5.0	35.0	Crittenden	AR	Arkansas
+05037	5.0	37.0	Cross	AR	Arkansas
+05039	5.0	39.0	Dallas	AR	Arkansas
+05041	5.0	41.0	Desha	AR	Arkansas
+05043	5.0	43.0	Drew	AR	Arkansas
+05047	5.0	47.0	Franklin	AR	Arkansas
+05049	5.0	49.0	Fulton	AR	Arkansas
+05051	5.0	51.0	Garland	AR	Arkansas
+05053	5.0	53.0	Grant	AR	Arkansas
+05055	5.0	55.0	Greene	AR	Arkansas
+05057	5.0	57.0	Hempstead	AR	Arkansas
+05059	5.0	59.0	Hot Spring	AR	Arkansas
+05063	5.0	63.0	Independence	AR	Arkansas
+05065	5.0	65.0	Izard	AR	Arkansas
+05067	5.0	67.0	Jackson	AR	Arkansas
+05069	5.0	69.0	Jefferson	AR	Arkansas
+05071	5.0	71.0	Johnson	AR	Arkansas
+05073	5.0	73.0	Lafayette	AR	Arkansas
+05075	5.0	75.0	Lawrence	AR	Arkansas
+05077	5.0	77.0	Lee	AR	Arkansas
+05079	5.0	79.0	Lincoln	AR	Arkansas
+05081	5.0	81.0	Little River	AR	Arkansas
+05083	5.0	83.0	Logan	AR	Arkansas
+05085	5.0	85.0	Lonoke	AR	Arkansas
+05087	5.0	87.0	Madison	AR	Arkansas
+05089	5.0	89.0	Marion	AR	Arkansas
+05091	5.0	91.0	Miller	AR	Arkansas
+05093	5.0	93.0	Mississippi	AR	Arkansas
+05095	5.0	95.0	Monroe	AR	Arkansas
+05097	5.0	97.0	Montgomery	AR	Arkansas
+05099	5.0	99.0	Nevada	AR	Arkansas
+05101	5.0	101.0	Newton	AR	Arkansas
+05103	5.0	103.0	Ouachita	AR	Arkansas
+05105	5.0	105.0	Perry	AR	Arkansas
+05107	5.0	107.0	Phillips	AR	Arkansas
+05109	5.0	109.0	Pike	AR	Arkansas
+05111	5.0	111.0	Poinsett	AR	Arkansas
+05113	5.0	113.0	Polk	AR	Arkansas
+05115	5.0	115.0	Pope	AR	Arkansas
+05117	5.0	117.0	Prairie	AR	Arkansas
+05119	5.0	119.0	Pulaski	AR	Arkansas
+05121	5.0	121.0	Randolph	AR	Arkansas
+05123	5.0	123.0	St Francis	AR	Arkansas
+05125	5.0	125.0	Saline	AR	Arkansas
+05127	5.0	127.0	Scott	AR	Arkansas
+05129	5.0	129.0	Searcy	AR	Arkansas
+05131	5.0	131.0	Sebastian	AR	Arkansas
+05133	5.0	133.0	Sevier	AR	Arkansas
+05135	5.0	135.0	Sharp	AR	Arkansas
+05137	5.0	137.0	Stone	AR	Arkansas
+05139	5.0	139.0	Union	AR	Arkansas
+05141	5.0	141.0	Van Buren	AR	Arkansas
+05143	5.0	143.0	Washington	AR	Arkansas
+05145	5.0	145.0	White	AR	Arkansas
+05147	5.0	147.0	Woodruff	AR	Arkansas
+05149	5.0	149.0	Yell	AR	Arkansas
+06001	6.0	1.0	Alameda	CA	California
+06003	6.0	3.0	Alpine	CA	California
+06005	6.0	5.0	Amador	CA	California
+06007	6.0	7.0	Butte	CA	California
+06009	6.0	9.0	Calaveras	CA	California
+06011	6.0	11.0	Colusa	CA	California
+06013	6.0	13.0	Contra Costa	CA	California
+06015	6.0	15.0	Del Norte	CA	California
+06017	6.0	17.0	El Dorado	CA	California
+06019	6.0	19.0	Fresno	CA	California
+06021	6.0	21.0	Glenn	CA	California
+06023	6.0	23.0	Humboldt	CA	California
+06025	6.0	25.0	Imperial	CA	California
+06027	6.0	27.0	Inyo	CA	California
+06029	6.0	29.0	Kern	CA	California
+06031	6.0	31.0	Kings	CA	California
+06033	6.0	33.0	Lake	CA	California
+06035	6.0	35.0	Lassen	CA	California
+06037	6.0	37.0	Los Angeles	CA	California
+06039	6.0	39.0	Madera	CA	California
+06041	6.0	41.0	Marin	CA	California
+06043	6.0	43.0	Mariposa	CA	California
+06045	6.0	45.0	Mendocino	CA	California
+06049	6.0	49.0	Modoc	CA	California
+06051	6.0	51.0	Mono	CA	California
+06053	6.0	53.0	Monterey	CA	California
+06055	6.0	55.0	Napa	CA	California
+06057	6.0	57.0	Nevada	CA	California
+06059	6.0	59.0	Orange	CA	California
+06061	6.0	61.0	Placer	CA	California
+06063	6.0	63.0	Plumas	CA	California
+06065	6.0	65.0	Riverside	CA	California
+06067	6.0	67.0	Sacramento	CA	California
+06069	6.0	69.0	San Benito	CA	California
+06071	6.0	71.0	San Bernardino	CA	California
+06073	6.0	73.0	San Diego	CA	California
+06075	6.0	75.0	San Francisco	CA	California
+06077	6.0	77.0	San Joaquin	CA	California
+06079	6.0	79.0	San Luis Obispo	CA	California
+06081	6.0	81.0	San Mateo	CA	California
+06083	6.0	83.0	Santa Barbara	CA	California
+06085	6.0	85.0	Santa Clara	CA	California
+06087	6.0	87.0	Santa Cruz	CA	California
+06089	6.0	89.0	Shasta	CA	California
+06091	6.0	91.0	Sierra	CA	California
+06093	6.0	93.0	Siskiyou	CA	California
+06095	6.0	95.0	Solano	CA	California
+06097	6.0	97.0	Sonoma	CA	California
+06099	6.0	99.0	Stanislaus	CA	California
+06101	6.0	101.0	Sutter	CA	California
+06103	6.0	103.0	Tehama	CA	California
+06105	6.0	105.0	Trinity	CA	California
+06107	6.0	107.0	Tulare	CA	California
+06109	6.0	109.0	Tuolumne	CA	California
+06111	6.0	111.0	Ventura	CA	California
+06113	6.0	113.0	Yolo	CA	California
+06115	6.0	115.0	Yuba	CA	California
+08001	8.0	1.0	Adams	CO	Colorado
+08003	8.0	3.0	Alamosa	CO	Colorado
+08005	8.0	5.0	Arapahoe	CO	Colorado
+08007	8.0	7.0	Archuleta	CO	Colorado
+08009	8.0	9.0	Baca	CO	Colorado
+08011	8.0	11.0	Bent	CO	Colorado
+08013	8.0	13.0	Boulder	CO	Colorado
+08017	8.0	17.0	Cheyenne	CO	Colorado
+08019	8.0	19.0	Clear Creek	CO	Colorado
+08021	8.0	21.0	Conejos	CO	Colorado
+08023	8.0	23.0	Costilla	CO	Colorado
+08025	8.0	25.0	Crowley	CO	Colorado
+08027	8.0	27.0	Custer	CO	Colorado
+08029	8.0	29.0	Delta	CO	Colorado
+08031	8.0	31.0	Denver	CO	Colorado
+08033	8.0	33.0	Dolores	CO	Colorado
+08035	8.0	35.0	Douglas	CO	Colorado
+08037	8.0	37.0	Eagle	CO	Colorado
+08039	8.0	39.0	Elbert	CO	Colorado
+08043	8.0	43.0	Fremont	CO	Colorado
+08045	8.0	45.0	Garfield	CO	Colorado
+08047	8.0	47.0	Gilpin	CO	Colorado
+08049	8.0	49.0	Grand	CO	Colorado
+08051	8.0	51.0	Gunnison	CO	Colorado
+08053	8.0	53.0	Hinsdale	CO	Colorado
+08055	8.0	55.0	Huerfano	CO	Colorado
+08057	8.0	57.0	Jackson	CO	Colorado
+08059	8.0	59.0	Jefferson	CO	Colorado
+08061	8.0	61.0	Kiowa	CO	Colorado
+08063	8.0	63.0	Kit Carson	CO	Colorado
+08065	8.0	65.0	Lake	CO	Colorado
+08067	8.0	67.0	La Plata	CO	Colorado
+08071	8.0	71.0	Las Animas	CO	Colorado
+08073	8.0	73.0	Lincoln	CO	Colorado
+08075	8.0	75.0	Logan	CO	Colorado
+08077	8.0	77.0	Mesa	CO	Colorado
+08079	8.0	79.0	Mineral	CO	Colorado
+08081	8.0	81.0	Moffat	CO	Colorado
+08083	8.0	83.0	Montezuma	CO	Colorado
+08085	8.0	85.0	Montrose	CO	Colorado
+08087	8.0	87.0	Morgan	CO	Colorado
+08089	8.0	89.0	Otero	CO	Colorado
+08091	8.0	91.0	Ouray	CO	Colorado
+08093	8.0	93.0	Park	CO	Colorado
+08095	8.0	95.0	Phillips	CO	Colorado
+08099	8.0	99.0	Prowers	CO	Colorado
+08101	8.0	101.0	Pueblo	CO	Colorado
+08103	8.0	103.0	Rio Blanco	CO	Colorado
+08105	8.0	105.0	Rio Grande	CO	Colorado
+08107	8.0	107.0	Routt	CO	Colorado
+08109	8.0	109.0	Saguache	CO	Colorado
+08111	8.0	111.0	San Juan	CO	Colorado
+08113	8.0	113.0	San Miguel	CO	Colorado
+08115	8.0	115.0	Sedgwick	CO	Colorado
+08117	8.0	117.0	Summit	CO	Colorado
+08119	8.0	119.0	Teller	CO	Colorado
+08121	8.0	121.0	Washington	CO	Colorado
+08125	8.0	125.0	Yuma	CO	Colorado
+09001	9.0	1.0	Fairfield	CT	Connecticut
+09003	9.0	3.0	Hartford	CT	Connecticut
+09005	9.0	5.0	Litchfield	CT	Connecticut
+09009	9.0	9.0	New Haven	CT	Connecticut
+09011	9.0	11.0	New London	CT	Connecticut
+09013	9.0	13.0	Tolland	CT	Connecticut
+09015	9.0	15.0	Windham	CT	Connecticut
+10001	10.0	1.0	Kent	DE	Delaware
+10003	10.0	3.0	New Castle	DE	Delaware
+10005	10.0	5.0	Sussex	DE	Delaware
+12001	12.0	1.0	Alachua	FL	Florida
+12003	12.0	3.0	Baker	FL	Florida
+12005	12.0	5.0	Bay	FL	Florida
+12007	12.0	7.0	Bradford	FL	Florida
+12009	12.0	9.0	Brevard	FL	Florida
+12011	12.0	11.0	Broward	FL	Florida
+12013	12.0	13.0	Calhoun	FL	Florida
+12015	12.0	15.0	Charlotte	FL	Florida
+12017	12.0	17.0	Citrus	FL	Florida
+12021	12.0	21.0	Collier	FL	Florida
+12023	12.0	23.0	Columbia	FL	Florida
+12027	12.0	27.0	De Soto	FL	Florida
+12029	12.0	29.0	Dixie	FL	Florida
+12031	12.0	31.0	Duval	FL	Florida
+12033	12.0	33.0	Escambia	FL	Florida
+12035	12.0	35.0	Flagler	FL	Florida
+12037	12.0	37.0	Franklin	FL	Florida
+12039	12.0	39.0	Gadsden	FL	Florida
+12041	12.0	41.0	Gilchrist	FL	Florida
+12043	12.0	43.0	Glades	FL	Florida
+12045	12.0	45.0	Gulf	FL	Florida
+12047	12.0	47.0	Hamilton	FL	Florida
+12049	12.0	49.0	Hardee	FL	Florida
+12051	12.0	51.0	Hendry	FL	Florida
+12053	12.0	53.0	Hernando	FL	Florida
+12055	12.0	55.0	Highlands	FL	Florida
+12057	12.0	57.0	Hillsborough	FL	Florida
+12059	12.0	59.0	Holmes	FL	Florida
+12061	12.0	61.0	Indian River	FL	Florida
+12063	12.0	63.0	Jackson	FL	Florida
+12065	12.0	65.0	Jefferson	FL	Florida
+12067	12.0	67.0	Lafayette	FL	Florida
+12069	12.0	69.0	Lake	FL	Florida
+12071	12.0	71.0	Lee	FL	Florida
+12073	12.0	73.0	Leon	FL	Florida
+12075	12.0	75.0	Levy	FL	Florida
+12077	12.0	77.0	Liberty	FL	Florida
+12079	12.0	79.0	Madison	FL	Florida
+12081	12.0	81.0	Manatee	FL	Florida
+12083	12.0	83.0	Marion	FL	Florida
+12085	12.0	85.0	Martin	FL	Florida
+12087	12.0	87.0	Monroe	FL	Florida
+12089	12.0	89.0	Nassau	FL	Florida
+12091	12.0	91.0	Okaloosa	FL	Florida
+12093	12.0	93.0	Okeechobee	FL	Florida
+12097	12.0	97.0	Osceola	FL	Florida
+12103	12.0	103.0	Pinellas	FL	Florida
+12105	12.0	105.0	Polk	FL	Florida
+12107	12.0	107.0	Putnam	FL	Florida
+12109	12.0	109.0	St Johns	FL	Florida
+12111	12.0	111.0	St Lucie	FL	Florida
+12113	12.0	113.0	Santa Rosa	FL	Florida
+12115	12.0	115.0	Sarasota	FL	Florida
+12117	12.0	117.0	Seminole	FL	Florida
+12119	12.0	119.0	Sumter	FL	Florida
+12121	12.0	121.0	Suwannee	FL	Florida
+12123	12.0	123.0	Taylor	FL	Florida
+12125	12.0	125.0	Union	FL	Florida
+12127	12.0	127.0	Volusia	FL	Florida
+12129	12.0	129.0	Wakulla	FL	Florida
+12131	12.0	131.0	Walton	FL	Florida
+12133	12.0	133.0	Washington	FL	Florida
+13001	13.0	1.0	Appling	GA	Georgia
+13003	13.0	3.0	Atkinson	GA	Georgia
+13005	13.0	5.0	Bacon	GA	Georgia
+13007	13.0	7.0	Baker	GA	Georgia
+13009	13.0	9.0	Baldwin	GA	Georgia
+13011	13.0	11.0	Banks	GA	Georgia
+13013	13.0	13.0	Barrow	GA	Georgia
+13015	13.0	15.0	Bartow	GA	Georgia
+13017	13.0	17.0	Ben Hill	GA	Georgia
+13019	13.0	19.0	Berrien	GA	Georgia
+13021	13.0	21.0	Bibb	GA	Georgia
+13023	13.0	23.0	Bleckley	GA	Georgia
+13025	13.0	25.0	Brantley	GA	Georgia
+13027	13.0	27.0	Brooks	GA	Georgia
+13029	13.0	29.0	Bryan	GA	Georgia
+13031	13.0	31.0	Bulloch	GA	Georgia
+13035	13.0	35.0	Butts	GA	Georgia
+13037	13.0	37.0	Calhoun	GA	Georgia
+13039	13.0	39.0	Camden	GA	Georgia
+13043	13.0	43.0	Candler	GA	Georgia
+13045	13.0	45.0	Carroll	GA	Georgia
+13047	13.0	47.0	Catoosa	GA	Georgia
+13049	13.0	49.0	Charlton	GA	Georgia
+13051	13.0	51.0	Chatham	GA	Georgia
+13053	13.0	53.0	Chattahoochee	GA	Georgia
+13055	13.0	55.0	Chattooga	GA	Georgia
+13057	13.0	57.0	Cherokee	GA	Georgia
+13059	13.0	59.0	Clarke	GA	Georgia
+13061	13.0	61.0	Clay	GA	Georgia
+13063	13.0	63.0	Clayton	GA	Georgia
+13065	13.0	65.0	Clinch	GA	Georgia
+13067	13.0	67.0	Cobb	GA	Georgia
+13069	13.0	69.0	Coffee	GA	Georgia
+13071	13.0	71.0	Colquitt	GA	Georgia
+13073	13.0	73.0	Columbia	GA	Georgia
+13075	13.0	75.0	Cook	GA	Georgia
+13077	13.0	77.0	Coweta	GA	Georgia
+13079	13.0	79.0	Crawford	GA	Georgia
+13081	13.0	81.0	Crisp	GA	Georgia
+13083	13.0	83.0	Dade	GA	Georgia
+13087	13.0	87.0	Decatur	GA	Georgia
+13089	13.0	89.0	De Kalb	GA	Georgia
+13091	13.0	91.0	Dodge	GA	Georgia
+13093	13.0	93.0	Dooly	GA	Georgia
+13097	13.0	97.0	Douglas	GA	Georgia
+13099	13.0	99.0	Early	GA	Georgia
+13101	13.0	101.0	Echols	GA	Georgia
+13103	13.0	103.0	Effingham	GA	Georgia
+13105	13.0	105.0	Elbert	GA	Georgia
+13107	13.0	107.0	Emanuel	GA	Georgia
+13109	13.0	109.0	Evans	GA	Georgia
+13113	13.0	113.0	Fayette	GA	Georgia
+13115	13.0	115.0	Floyd	GA	Georgia
+13117	13.0	117.0	Forsyth	GA	Georgia
+13119	13.0	119.0	Franklin	GA	Georgia
+13121	13.0	121.0	Fulton	GA	Georgia
+13123	13.0	123.0	Gilmer	GA	Georgia
+13125	13.0	125.0	Glascock	GA	Georgia
+13127	13.0	127.0	Glynn	GA	Georgia
+13129	13.0	129.0	Gordon	GA	Georgia
+13131	13.0	131.0	Grady	GA	Georgia
+13133	13.0	133.0	Greene	GA	Georgia
+13135	13.0	135.0	Gwinnett	GA	Georgia
+13137	13.0	137.0	Habersham	GA	Georgia
+13139	13.0	139.0	Hall	GA	Georgia
+13141	13.0	141.0	Hancock	GA	Georgia
+13143	13.0	143.0	Haralson	GA	Georgia
+13145	13.0	145.0	Harris	GA	Georgia
+13147	13.0	147.0	Hart	GA	Georgia
+13151	13.0	151.0	Henry	GA	Georgia
+13153	13.0	153.0	Houston	GA	Georgia
+13155	13.0	155.0	Irwin	GA	Georgia
+13157	13.0	157.0	Jackson	GA	Georgia
+13159	13.0	159.0	Jasper	GA	Georgia
+13161	13.0	161.0	Jeff Davis	GA	Georgia
+13163	13.0	163.0	Jefferson	GA	Georgia
+13165	13.0	165.0	Jenkins	GA	Georgia
+13167	13.0	167.0	Johnson	GA	Georgia
+13169	13.0	169.0	Jones	GA	Georgia
+13171	13.0	171.0	Lamar	GA	Georgia
+13173	13.0	173.0	Lanier	GA	Georgia
+13175	13.0	175.0	Laurens	GA	Georgia
+13179	13.0	179.0	Liberty	GA	Georgia
+13181	13.0	181.0	Lincoln	GA	Georgia
+13183	13.0	183.0	Long	GA	Georgia
+13185	13.0	185.0	Lowndes	GA	Georgia
+13187	13.0	187.0	Lumpkin	GA	Georgia
+13191	13.0	191.0	McIntosh	GA	Georgia
+13193	13.0	193.0	Macon	GA	Georgia
+13195	13.0	195.0	Madison	GA	Georgia
+13197	13.0	197.0	Marion	GA	Georgia
+13199	13.0	199.0	Meriwether	GA	Georgia
+13201	13.0	201.0	Miller	GA	Georgia
+13205	13.0	205.0	Mitchell	GA	Georgia
+13207	13.0	207.0	Monroe	GA	Georgia
+13209	13.0	209.0	Montgomery	GA	Georgia
+13211	13.0	211.0	Morgan	GA	Georgia
+13213	13.0	213.0	Murray	GA	Georgia
+13215	13.0	215.0	Muscogee	GA	Georgia
+13217	13.0	217.0	Newton	GA	Georgia
+13219	13.0	219.0	Oconee	GA	Georgia
+13221	13.0	221.0	Oglethorpe	GA	Georgia
+13223	13.0	223.0	Paulding	GA	Georgia
+13225	13.0	225.0	Peach	GA	Georgia
+13227	13.0	227.0	Pickens	GA	Georgia
+13229	13.0	229.0	Pierce	GA	Georgia
+13231	13.0	231.0	Pike	GA	Georgia
+13233	13.0	233.0	Polk	GA	Georgia
+13235	13.0	235.0	Pulaski	GA	Georgia
+13237	13.0	237.0	Putnam	GA	Georgia
+13239	13.0	239.0	Quitman	GA	Georgia
+13241	13.0	241.0	Rabun	GA	Georgia
+13245	13.0	245.0	Richmond	GA	Georgia
+13247	13.0	247.0	Rockdale	GA	Georgia
+13249	13.0	249.0	Schley	GA	Georgia
+13251	13.0	251.0	Screven	GA	Georgia
+13253	13.0	253.0	Seminole	GA	Georgia
+13255	13.0	255.0	Spalding	GA	Georgia
+13257	13.0	257.0	Stephens	GA	Georgia
+13259	13.0	259.0	Stewart	GA	Georgia
+13263	13.0	263.0	Talbot	GA	Georgia
+13265	13.0	265.0	Taliaferro	GA	Georgia
+13267	13.0	267.0	Tattnall	GA	Georgia
+13271	13.0	271.0	Telfair	GA	Georgia
+13279	13.0	279.0	Toombs	GA	Georgia
+13281	13.0	281.0	Towns	GA	Georgia
+13283	13.0	283.0	Treutlen	GA	Georgia
+13285	13.0	285.0	Troup	GA	Georgia
+13287	13.0	287.0	Turner	GA	Georgia
+13289	13.0	289.0	Twiggs	GA	Georgia
+13291	13.0	291.0	Union	GA	Georgia
+13293	13.0	293.0	Upson	GA	Georgia
+13295	13.0	295.0	Walker	GA	Georgia
+13297	13.0	297.0	Walton	GA	Georgia
+13299	13.0	299.0	Ware	GA	Georgia
+13301	13.0	301.0	Warren	GA	Georgia
+13303	13.0	303.0	Washington	GA	Georgia
+13305	13.0	305.0	Wayne	GA	Georgia
+13307	13.0	307.0	Webster	GA	Georgia
+13309	13.0	309.0	Wheeler	GA	Georgia
+13311	13.0	311.0	White	GA	Georgia
+13313	13.0	313.0	Whitfield	GA	Georgia
+13315	13.0	315.0	Wilcox	GA	Georgia
+13317	13.0	317.0	Wilkes	GA	Georgia
+13319	13.0	319.0	Wilkinson	GA	Georgia
+13321	13.0	321.0	Worth	GA	Georgia
+15001	15.0	1.0	Hawaii	HI	Hawaii
+15003	15.0	3.0	Honolulu	HI	Hawaii
+15007	15.0	7.0	Kauai	HI	Hawaii
+15009	15.0	9.0	Maui	HI	Hawaii
+16001	16.0	1.0	Ada	ID	Idaho
+16003	16.0	3.0	Adams	ID	Idaho
+16005	16.0	5.0	Bannock	ID	Idaho
+16007	16.0	7.0	Bear Lake	ID	Idaho
+16009	16.0	9.0	Benewah	ID	Idaho
+16011	16.0	11.0	Bingham	ID	Idaho
+16013	16.0	13.0	Blaine	ID	Idaho
+16015	16.0	15.0	Boise	ID	Idaho
+16017	16.0	17.0	Bonner	ID	Idaho
+16019	16.0	19.0	Bonneville	ID	Idaho
+16021	16.0	21.0	Boundary	ID	Idaho
+16023	16.0	23.0	Butte	ID	Idaho
+16025	16.0	25.0	Camas	ID	Idaho
+16027	16.0	27.0	Canyon	ID	Idaho
+16029	16.0	29.0	Caribou	ID	Idaho
+16031	16.0	31.0	Cassia	ID	Idaho
+16033	16.0	33.0	Clark	ID	Idaho
+16035	16.0	35.0	Clearwater	ID	Idaho
+16037	16.0	37.0	Custer	ID	Idaho
+16039	16.0	39.0	Elmore	ID	Idaho
+16041	16.0	41.0	Franklin	ID	Idaho
+16043	16.0	43.0	Fremont	ID	Idaho
+16045	16.0	45.0	Gem	ID	Idaho
+16047	16.0	47.0	Gooding	ID	Idaho
+16049	16.0	49.0	Idaho	ID	Idaho
+16051	16.0	51.0	Jefferson	ID	Idaho
+16053	16.0	53.0	Jerome	ID	Idaho
+16055	16.0	55.0	Kootenai	ID	Idaho
+16057	16.0	57.0	Latah	ID	Idaho
+16059	16.0	59.0	Lemhi	ID	Idaho
+16061	16.0	61.0	Lewis	ID	Idaho
+16063	16.0	63.0	Lincoln	ID	Idaho
+16065	16.0	65.0	Madison	ID	Idaho
+16067	16.0	67.0	Minidoka	ID	Idaho
+16069	16.0	69.0	Nez Perce	ID	Idaho
+16071	16.0	71.0	Oneida	ID	Idaho
+16073	16.0	73.0	Owyhee	ID	Idaho
+16075	16.0	75.0	Payette	ID	Idaho
+16077	16.0	77.0	Power	ID	Idaho
+16079	16.0	79.0	Shoshone	ID	Idaho
+16081	16.0	81.0	Teton	ID	Idaho
+16083	16.0	83.0	Twin Falls	ID	Idaho
+16085	16.0	85.0	Valley	ID	Idaho
+16087	16.0	87.0	Washington	ID	Idaho
+17001	17.0	1.0	Adams	IL	Illinois
+17003	17.0	3.0	Alexander	IL	Illinois
+17005	17.0	5.0	Bond	IL	Illinois
+17007	17.0	7.0	Boone	IL	Illinois
+17009	17.0	9.0	Brown	IL	Illinois
+17011	17.0	11.0	Bureau	IL	Illinois
+17013	17.0	13.0	Calhoun	IL	Illinois
+17015	17.0	15.0	Carroll	IL	Illinois
+17017	17.0	17.0	Cass	IL	Illinois
+17019	17.0	19.0	Champaign	IL	Illinois
+17021	17.0	21.0	Christian	IL	Illinois
+17023	17.0	23.0	Clark	IL	Illinois
+17025	17.0	25.0	Clay	IL	Illinois
+17027	17.0	27.0	Clinton	IL	Illinois
+17029	17.0	29.0	Coles	IL	Illinois
+17031	17.0	31.0	Cook	IL	Illinois
+17033	17.0	33.0	Crawford	IL	Illinois
+17035	17.0	35.0	Cumberland	IL	Illinois
+17037	17.0	37.0	De Kalb	IL	Illinois
+17039	17.0	39.0	De Witt	IL	Illinois
+17041	17.0	41.0	Douglas	IL	Illinois
+17043	17.0	43.0	Du Page	IL	Illinois
+17045	17.0	45.0	Edgar	IL	Illinois
+17047	17.0	47.0	Edwards	IL	Illinois
+17049	17.0	49.0	Effingham	IL	Illinois
+17051	17.0	51.0	Fayette	IL	Illinois
+17053	17.0	53.0	Ford	IL	Illinois
+17055	17.0	55.0	Franklin	IL	Illinois
+17057	17.0	57.0	Fulton	IL	Illinois
+17059	17.0	59.0	Gallatin	IL	Illinois
+17061	17.0	61.0	Greene	IL	Illinois
+17063	17.0	63.0	Grundy	IL	Illinois
+17065	17.0	65.0	Hamilton	IL	Illinois
+17067	17.0	67.0	Hancock	IL	Illinois
+17069	17.0	69.0	Hardin	IL	Illinois
+17071	17.0	71.0	Henderson	IL	Illinois
+17073	17.0	73.0	Henry	IL	Illinois
+17075	17.0	75.0	Iroquois	IL	Illinois
+17077	17.0	77.0	Jackson	IL	Illinois
+17079	17.0	79.0	Jasper	IL	Illinois
+17081	17.0	81.0	Jefferson	IL	Illinois
+17083	17.0	83.0	Jersey	IL	Illinois
+17085	17.0	85.0	Jo Daviess	IL	Illinois
+17087	17.0	87.0	Johnson	IL	Illinois
+17091	17.0	91.0	Kankakee	IL	Illinois
+17093	17.0	93.0	Kendall	IL	Illinois
+17095	17.0	95.0	Knox	IL	Illinois
+17097	17.0	97.0	Lake	IL	Illinois
+17099	17.0	99.0	La Salle	IL	Illinois
+17101	17.0	101.0	Lawrence	IL	Illinois
+17103	17.0	103.0	Lee	IL	Illinois
+17105	17.0	105.0	Livingston	IL	Illinois
+17107	17.0	107.0	Logan	IL	Illinois
+17109	17.0	109.0	McDonough	IL	Illinois
+17111	17.0	111.0	McHenry	IL	Illinois
+17113	17.0	113.0	McLean	IL	Illinois
+17115	17.0	115.0	Macon	IL	Illinois
+17117	17.0	117.0	Macoupin	IL	Illinois
+17119	17.0	119.0	Madison	IL	Illinois
+17121	17.0	121.0	Marion	IL	Illinois
+17123	17.0	123.0	Marshall	IL	Illinois
+17125	17.0	125.0	Mason	IL	Illinois
+17127	17.0	127.0	Massac	IL	Illinois
+17129	17.0	129.0	Menard	IL	Illinois
+17131	17.0	131.0	Mercer	IL	Illinois
+17133	17.0	133.0	Monroe	IL	Illinois
+17135	17.0	135.0	Montgomery	IL	Illinois
+17137	17.0	137.0	Morgan	IL	Illinois
+17139	17.0	139.0	Moultrie	IL	Illinois
+17141	17.0	141.0	Ogle	IL	Illinois
+17143	17.0	143.0	Peoria	IL	Illinois
+17145	17.0	145.0	Perry	IL	Illinois
+17147	17.0	147.0	Piatt	IL	Illinois
+17149	17.0	149.0	Pike	IL	Illinois
+17151	17.0	151.0	Pope	IL	Illinois
+17153	17.0	153.0	Pulaski	IL	Illinois
+17155	17.0	155.0	Putnam	IL	Illinois
+17157	17.0	157.0	Randolph	IL	Illinois
+17159	17.0	159.0	Richland	IL	Illinois
+17161	17.0	161.0	Rock Island	IL	Illinois
+17163	17.0	163.0	St Clair	IL	Illinois
+17165	17.0	165.0	Saline	IL	Illinois
+17167	17.0	167.0	Sangamon	IL	Illinois
+17169	17.0	169.0	Schuyler	IL	Illinois
+17171	17.0	171.0	Scott	IL	Illinois
+17173	17.0	173.0	Shelby	IL	Illinois
+17175	17.0	175.0	Stark	IL	Illinois
+17177	17.0	177.0	Stephenson	IL	Illinois
+17179	17.0	179.0	Tazewell	IL	Illinois
+17181	17.0	181.0	Union	IL	Illinois
+17183	17.0	183.0	Vermilion	IL	Illinois
+17185	17.0	185.0	Wabash	IL	Illinois
+17187	17.0	187.0	Warren	IL	Illinois
+17189	17.0	189.0	Washington	IL	Illinois
+17191	17.0	191.0	Wayne	IL	Illinois
+17193	17.0	193.0	White	IL	Illinois
+17195	17.0	195.0	Whiteside	IL	Illinois
+17197	17.0	197.0	Will	IL	Illinois
+17199	17.0	199.0	Williamson	IL	Illinois
+17201	17.0	201.0	Winnebago	IL	Illinois
+17203	17.0	203.0	Woodford	IL	Illinois
+18001	18.0	1.0	Adams	IN	Indiana
+18003	18.0	3.0	Allen	IN	Indiana
+18005	18.0	5.0	Bartholomew	IN	Indiana
+18007	18.0	7.0	Benton	IN	Indiana
+18009	18.0	9.0	Blackford	IN	Indiana
+18011	18.0	11.0	Boone	IN	Indiana
+18013	18.0	13.0	Brown	IN	Indiana
+18015	18.0	15.0	Carroll	IN	Indiana
+18017	18.0	17.0	Cass	IN	Indiana
+18019	18.0	19.0	Clark	IN	Indiana
+18021	18.0	21.0	Clay	IN	Indiana
+18023	18.0	23.0	Clinton	IN	Indiana
+18025	18.0	25.0	Crawford	IN	Indiana
+18027	18.0	27.0	Daviess	IN	Indiana
+18029	18.0	29.0	Dearborn	IN	Indiana
+18031	18.0	31.0	Decatur	IN	Indiana
+18033	18.0	33.0	De Kalb	IN	Indiana
+18035	18.0	35.0	Delaware	IN	Indiana
+18037	18.0	37.0	Dubois	IN	Indiana
+18039	18.0	39.0	Elkhart	IN	Indiana
+18041	18.0	41.0	Fayette	IN	Indiana
+18043	18.0	43.0	Floyd	IN	Indiana
+18045	18.0	45.0	Fountain	IN	Indiana
+18047	18.0	47.0	Franklin	IN	Indiana
+18049	18.0	49.0	Fulton	IN	Indiana
+18051	18.0	51.0	Gibson	IN	Indiana
+18053	18.0	53.0	Grant	IN	Indiana
+18055	18.0	55.0	Greene	IN	Indiana
+18057	18.0	57.0	Hamilton	IN	Indiana
+18059	18.0	59.0	Hancock	IN	Indiana
+18061	18.0	61.0	Harrison	IN	Indiana
+18063	18.0	63.0	Hendricks	IN	Indiana
+18065	18.0	65.0	Henry	IN	Indiana
+18067	18.0	67.0	Howard	IN	Indiana
+18069	18.0	69.0	Huntington	IN	Indiana
+18071	18.0	71.0	Jackson	IN	Indiana
+18073	18.0	73.0	Jasper	IN	Indiana
+18075	18.0	75.0	Jay	IN	Indiana
+18077	18.0	77.0	Jefferson	IN	Indiana
+18079	18.0	79.0	Jennings	IN	Indiana
+18081	18.0	81.0	Johnson	IN	Indiana
+18083	18.0	83.0	Knox	IN	Indiana
+18085	18.0	85.0	Kosciusko	IN	Indiana
+18087	18.0	87.0	La Grange	IN	Indiana
+18089	18.0	89.0	Lake	IN	Indiana
+18091	18.0	91.0	La Porte	IN	Indiana
+18093	18.0	93.0	Lawrence	IN	Indiana
+18095	18.0	95.0	Madison	IN	Indiana
+18097	18.0	97.0	Marion	IN	Indiana
+18099	18.0	99.0	Marshall	IN	Indiana
+18101	18.0	101.0	Martin	IN	Indiana
+18103	18.0	103.0	Miami	IN	Indiana
+18105	18.0	105.0	Monroe	IN	Indiana
+18107	18.0	107.0	Montgomery	IN	Indiana
+18109	18.0	109.0	Morgan	IN	Indiana
+18111	18.0	111.0	Newton	IN	Indiana
+18113	18.0	113.0	Noble	IN	Indiana
+18115	18.0	115.0	Ohio	IN	Indiana
+18117	18.0	117.0	Orange	IN	Indiana
+18119	18.0	119.0	Owen	IN	Indiana
+18121	18.0	121.0	Parke	IN	Indiana
+18123	18.0	123.0	Perry	IN	Indiana
+18125	18.0	125.0	Pike	IN	Indiana
+18127	18.0	127.0	Porter	IN	Indiana
+18129	18.0	129.0	Posey	IN	Indiana
+18131	18.0	131.0	Pulaski	IN	Indiana
+18133	18.0	133.0	Putnam	IN	Indiana
+18135	18.0	135.0	Randolph	IN	Indiana
+18137	18.0	137.0	Ripley	IN	Indiana
+18139	18.0	139.0	Rush	IN	Indiana
+18141	18.0	141.0	St Joseph	IN	Indiana
+18143	18.0	143.0	Scott	IN	Indiana
+18145	18.0	145.0	Shelby	IN	Indiana
+18147	18.0	147.0	Spencer	IN	Indiana
+18149	18.0	149.0	Starke	IN	Indiana
+18151	18.0	151.0	Steuben	IN	Indiana
+18153	18.0	153.0	Sullivan	IN	Indiana
+18155	18.0	155.0	Switzerland	IN	Indiana
+18157	18.0	157.0	Tippecanoe	IN	Indiana
+18159	18.0	159.0	Tipton	IN	Indiana
+18161	18.0	161.0	Union	IN	Indiana
+18163	18.0	163.0	Vanderburgh	IN	Indiana
+18165	18.0	165.0	Vermillion	IN	Indiana
+18167	18.0	167.0	Vigo	IN	Indiana
+18169	18.0	169.0	Wabash	IN	Indiana
+18171	18.0	171.0	Warren	IN	Indiana
+18173	18.0	173.0	Warrick	IN	Indiana
+18175	18.0	175.0	Washington	IN	Indiana
+18177	18.0	177.0	Wayne	IN	Indiana
+18179	18.0	179.0	Wells	IN	Indiana
+18181	18.0	181.0	White	IN	Indiana
+18183	18.0	183.0	Whitley	IN	Indiana
+19001	19.0	1.0	Adair	IA	Iowa
+19003	19.0	3.0	Adams	IA	Iowa
+19005	19.0	5.0	Allamakee	IA	Iowa
+19007	19.0	7.0	Appanoose	IA	Iowa
+19009	19.0	9.0	Audubon	IA	Iowa
+19011	19.0	11.0	Benton	IA	Iowa
+19013	19.0	13.0	Black Hawk	IA	Iowa
+19015	19.0	15.0	Boone	IA	Iowa
+19017	19.0	17.0	Bremer	IA	Iowa
+19019	19.0	19.0	Buchanan	IA	Iowa
+19021	19.0	21.0	Buena Vista	IA	Iowa
+19023	19.0	23.0	Butler	IA	Iowa
+19025	19.0	25.0	Calhoun	IA	Iowa
+19027	19.0	27.0	Carroll	IA	Iowa
+19029	19.0	29.0	Cass	IA	Iowa
+19031	19.0	31.0	Cedar	IA	Iowa
+19033	19.0	33.0	Cerro Gordo	IA	Iowa
+19035	19.0	35.0	Cherokee	IA	Iowa
+19037	19.0	37.0	Chickasaw	IA	Iowa
+19039	19.0	39.0	Clarke	IA	Iowa
+19041	19.0	41.0	Clay	IA	Iowa
+19043	19.0	43.0	Clayton	IA	Iowa
+19045	19.0	45.0	Clinton	IA	Iowa
+19047	19.0	47.0	Crawford	IA	Iowa
+19049	19.0	49.0	Dallas	IA	Iowa
+19051	19.0	51.0	Davis	IA	Iowa
+19053	19.0	53.0	Decatur	IA	Iowa
+19055	19.0	55.0	Delaware	IA	Iowa
+19057	19.0	57.0	Des Moines	IA	Iowa
+19059	19.0	59.0	Dickinson	IA	Iowa
+19061	19.0	61.0	Dubuque	IA	Iowa
+19063	19.0	63.0	Emmet	IA	Iowa
+19065	19.0	65.0	Fayette	IA	Iowa
+19067	19.0	67.0	Floyd	IA	Iowa
+19069	19.0	69.0	Franklin	IA	Iowa
+19071	19.0	71.0	Fremont	IA	Iowa
+19073	19.0	73.0	Greene	IA	Iowa
+19075	19.0	75.0	Grundy	IA	Iowa
+19077	19.0	77.0	Guthrie	IA	Iowa
+19079	19.0	79.0	Hamilton	IA	Iowa
+19081	19.0	81.0	Hancock	IA	Iowa
+19083	19.0	83.0	Hardin	IA	Iowa
+19085	19.0	85.0	Harrison	IA	Iowa
+19087	19.0	87.0	Henry	IA	Iowa
+19089	19.0	89.0	Howard	IA	Iowa
+19091	19.0	91.0	Humboldt	IA	Iowa
+19093	19.0	93.0	Ida	IA	Iowa
+19095	19.0	95.0	Iowa	IA	Iowa
+19097	19.0	97.0	Jackson	IA	Iowa
+19099	19.0	99.0	Jasper	IA	Iowa
+19101	19.0	101.0	Jefferson	IA	Iowa
+19103	19.0	103.0	Johnson	IA	Iowa
+19105	19.0	105.0	Jones	IA	Iowa
+19107	19.0	107.0	Keokuk	IA	Iowa
+19109	19.0	109.0	Kossuth	IA	Iowa
+19111	19.0	111.0	Lee	IA	Iowa
+19113	19.0	113.0	Linn	IA	Iowa
+19115	19.0	115.0	Louisa	IA	Iowa
+19117	19.0	117.0	Lucas	IA	Iowa
+19119	19.0	119.0	Lyon	IA	Iowa
+19121	19.0	121.0	Madison	IA	Iowa
+19123	19.0	123.0	Mahaska	IA	Iowa
+19125	19.0	125.0	Marion	IA	Iowa
+19127	19.0	127.0	Marshall	IA	Iowa
+19129	19.0	129.0	Mills	IA	Iowa
+19131	19.0	131.0	Mitchell	IA	Iowa
+19133	19.0	133.0	Monona	IA	Iowa
+19135	19.0	135.0	Monroe	IA	Iowa
+19137	19.0	137.0	Montgomery	IA	Iowa
+19139	19.0	139.0	Muscatine	IA	Iowa
+19141	19.0	141.0	O Brien	IA	Iowa
+19143	19.0	143.0	Osceola	IA	Iowa
+19145	19.0	145.0	Page	IA	Iowa
+19147	19.0	147.0	Palo Alto	IA	Iowa
+19149	19.0	149.0	Plymouth	IA	Iowa
+19151	19.0	151.0	Pocahontas	IA	Iowa
+19153	19.0	153.0	Polk	IA	Iowa
+19155	19.0	155.0	Pottawattamie	IA	Iowa
+19157	19.0	157.0	Poweshiek	IA	Iowa
+19159	19.0	159.0	Ringgold	IA	Iowa
+19161	19.0	161.0	Sac	IA	Iowa
+19163	19.0	163.0	Scott	IA	Iowa
+19165	19.0	165.0	Shelby	IA	Iowa
+19167	19.0	167.0	Sioux	IA	Iowa
+19169	19.0	169.0	Story	IA	Iowa
+19171	19.0	171.0	Tama	IA	Iowa
+19173	19.0	173.0	Taylor	IA	Iowa
+19175	19.0	175.0	Union	IA	Iowa
+19177	19.0	177.0	Van Buren	IA	Iowa
+19179	19.0	179.0	Wapello	IA	Iowa
+19181	19.0	181.0	Warren	IA	Iowa
+19183	19.0	183.0	Washington	IA	Iowa
+19185	19.0	185.0	Wayne	IA	Iowa
+19187	19.0	187.0	Webster	IA	Iowa
+19189	19.0	189.0	Winnebago	IA	Iowa
+19191	19.0	191.0	Winneshiek	IA	Iowa
+19193	19.0	193.0	Woodbury	IA	Iowa
+19195	19.0	195.0	Worth	IA	Iowa
+19197	19.0	197.0	Wright	IA	Iowa
+20001	20.0	1.0	Allen	KS	Kansas
+20003	20.0	3.0	Anderson	KS	Kansas
+20005	20.0	5.0	Atchison	KS	Kansas
+20007	20.0	7.0	Barber	KS	Kansas
+20009	20.0	9.0	Barton	KS	Kansas
+20011	20.0	11.0	Bourbon	KS	Kansas
+20013	20.0	13.0	Brown	KS	Kansas
+20015	20.0	15.0	Butler	KS	Kansas
+20017	20.0	17.0	Chase	KS	Kansas
+20019	20.0	19.0	Chautauqua	KS	Kansas
+20021	20.0	21.0	Cherokee	KS	Kansas
+20023	20.0	23.0	Cheyenne	KS	Kansas
+20025	20.0	25.0	Clark	KS	Kansas
+20027	20.0	27.0	Clay	KS	Kansas
+20029	20.0	29.0	Cloud	KS	Kansas
+20031	20.0	31.0	Coffey	KS	Kansas
+20033	20.0	33.0	Comanche	KS	Kansas
+20035	20.0	35.0	Cowley	KS	Kansas
+20037	20.0	37.0	Crawford	KS	Kansas
+20039	20.0	39.0	Decatur	KS	Kansas
+20041	20.0	41.0	Dickinson	KS	Kansas
+20043	20.0	43.0	Doniphan	KS	Kansas
+20045	20.0	45.0	Douglas	KS	Kansas
+20047	20.0	47.0	Edwards	KS	Kansas
+20049	20.0	49.0	Elk	KS	Kansas
+20051	20.0	51.0	Ellis	KS	Kansas
+20053	20.0	53.0	Ellsworth	KS	Kansas
+20055	20.0	55.0	Finney	KS	Kansas
+20057	20.0	57.0	Ford	KS	Kansas
+20059	20.0	59.0	Franklin	KS	Kansas
+20061	20.0	61.0	Geary	KS	Kansas
+20063	20.0	63.0	Gove	KS	Kansas
+20065	20.0	65.0	Graham	KS	Kansas
+20067	20.0	67.0	Grant	KS	Kansas
+20069	20.0	69.0	Gray	KS	Kansas
+20071	20.0	71.0	Greeley	KS	Kansas
+20073	20.0	73.0	Greenwood	KS	Kansas
+20075	20.0	75.0	Hamilton	KS	Kansas
+20077	20.0	77.0	Harper	KS	Kansas
+20079	20.0	79.0	Harvey	KS	Kansas
+20081	20.0	81.0	Haskell	KS	Kansas
+20083	20.0	83.0	Hodgeman	KS	Kansas
+20085	20.0	85.0	Jackson	KS	Kansas
+20087	20.0	87.0	Jefferson	KS	Kansas
+20089	20.0	89.0	Jewell	KS	Kansas
+20091	20.0	91.0	Johnson	KS	Kansas
+20093	20.0	93.0	Kearny	KS	Kansas
+20095	20.0	95.0	Kingman	KS	Kansas
+20097	20.0	97.0	Kiowa	KS	Kansas
+20099	20.0	99.0	Labette	KS	Kansas
+20101	20.0	101.0	Lane	KS	Kansas
+20103	20.0	103.0	Leavenworth	KS	Kansas
+20105	20.0	105.0	Lincoln	KS	Kansas
+20107	20.0	107.0	Linn	KS	Kansas
+20109	20.0	109.0	Logan	KS	Kansas
+20111	20.0	111.0	Lyon	KS	Kansas
+20113	20.0	113.0	McPherson	KS	Kansas
+20115	20.0	115.0	Marion	KS	Kansas
+20117	20.0	117.0	Marshall	KS	Kansas
+20119	20.0	119.0	Meade	KS	Kansas
+20121	20.0	121.0	Miami	KS	Kansas
+20123	20.0	123.0	Mitchell	KS	Kansas
+20125	20.0	125.0	Montgomery	KS	Kansas
+20127	20.0	127.0	Morris	KS	Kansas
+20129	20.0	129.0	Morton	KS	Kansas
+20131	20.0	131.0	Nemaha	KS	Kansas
+20133	20.0	133.0	Neosho	KS	Kansas
+20135	20.0	135.0	Ness	KS	Kansas
+20137	20.0	137.0	Norton	KS	Kansas
+20139	20.0	139.0	Osage	KS	Kansas
+20141	20.0	141.0	Osborne	KS	Kansas
+20143	20.0	143.0	Ottawa	KS	Kansas
+20145	20.0	145.0	Pawnee	KS	Kansas
+20147	20.0	147.0	Phillips	KS	Kansas
+20149	20.0	149.0	Pottawatomie	KS	Kansas
+20151	20.0	151.0	Pratt	KS	Kansas
+20153	20.0	153.0	Rawlins	KS	Kansas
+20155	20.0	155.0	Reno	KS	Kansas
+20157	20.0	157.0	Republic	KS	Kansas
+20159	20.0	159.0	Rice	KS	Kansas
+20161	20.0	161.0	Riley	KS	Kansas
+20163	20.0	163.0	Rooks	KS	Kansas
+20165	20.0	165.0	Rush	KS	Kansas
+20167	20.0	167.0	Russell	KS	Kansas
+20169	20.0	169.0	Saline	KS	Kansas
+20171	20.0	171.0	Scott	KS	Kansas
+20173	20.0	173.0	Sedgwick	KS	Kansas
+20175	20.0	175.0	Seward	KS	Kansas
+20177	20.0	177.0	Shawnee	KS	Kansas
+20179	20.0	179.0	Sheridan	KS	Kansas
+20181	20.0	181.0	Sherman	KS	Kansas
+20183	20.0	183.0	Smith	KS	Kansas
+20185	20.0	185.0	Stafford	KS	Kansas
+20187	20.0	187.0	Stanton	KS	Kansas
+20189	20.0	189.0	Stevens	KS	Kansas
+20191	20.0	191.0	Sumner	KS	Kansas
+20193	20.0	193.0	Thomas	KS	Kansas
+20195	20.0	195.0	Trego	KS	Kansas
+20197	20.0	197.0	Wabaunsee	KS	Kansas
+20199	20.0	199.0	Wallace	KS	Kansas
+20201	20.0	201.0	Washington	KS	Kansas
+20203	20.0	203.0	Wichita	KS	Kansas
+20205	20.0	205.0	Wilson	KS	Kansas
+20207	20.0	207.0	Woodson	KS	Kansas
+20209	20.0	209.0	Wyandotte	KS	Kansas
+21001	21.0	1.0	Adair	KY	Kentucky
+21003	21.0	3.0	Allen	KY	Kentucky
+21005	21.0	5.0	Anderson	KY	Kentucky
+21007	21.0	7.0	Ballard	KY	Kentucky
+21009	21.0	9.0	Barren	KY	Kentucky
+21011	21.0	11.0	Bath	KY	Kentucky
+21013	21.0	13.0	Bell	KY	Kentucky
+21015	21.0	15.0	Boone	KY	Kentucky
+21017	21.0	17.0	Bourbon	KY	Kentucky
+21019	21.0	19.0	Boyd	KY	Kentucky
+21021	21.0	21.0	Boyle	KY	Kentucky
+21023	21.0	23.0	Bracken	KY	Kentucky
+21025	21.0	25.0	Breathitt	KY	Kentucky
+21027	21.0	27.0	Breckinridge	KY	Kentucky
+21029	21.0	29.0	Bullitt	KY	Kentucky
+21031	21.0	31.0	Butler	KY	Kentucky
+21033	21.0	33.0	Caldwell	KY	Kentucky
+21035	21.0	35.0	Calloway	KY	Kentucky
+21037	21.0	37.0	Campbell	KY	Kentucky
+21039	21.0	39.0	Carlisle	KY	Kentucky
+21041	21.0	41.0	Carroll	KY	Kentucky
+21043	21.0	43.0	Carter	KY	Kentucky
+21045	21.0	45.0	Casey	KY	Kentucky
+21047	21.0	47.0	Christian	KY	Kentucky
+21049	21.0	49.0	Clark	KY	Kentucky
+21051	21.0	51.0	Clay	KY	Kentucky
+21053	21.0	53.0	Clinton	KY	Kentucky
+21055	21.0	55.0	Crittenden	KY	Kentucky
+21057	21.0	57.0	Cumberland	KY	Kentucky
+21059	21.0	59.0	Daviess	KY	Kentucky
+21061	21.0	61.0	Edmonson	KY	Kentucky
+21063	21.0	63.0	Elliott	KY	Kentucky
+21065	21.0	65.0	Estill	KY	Kentucky
+21067	21.0	67.0	Fayette	KY	Kentucky
+21069	21.0	69.0	Fleming	KY	Kentucky
+21071	21.0	71.0	Floyd	KY	Kentucky
+21073	21.0	73.0	Franklin	KY	Kentucky
+21075	21.0	75.0	Fulton	KY	Kentucky
+21077	21.0	77.0	Gallatin	KY	Kentucky
+21079	21.0	79.0	Garrard	KY	Kentucky
+21081	21.0	81.0	Grant	KY	Kentucky
+21083	21.0	83.0	Graves	KY	Kentucky
+21085	21.0	85.0	Grayson	KY	Kentucky
+21087	21.0	87.0	Green	KY	Kentucky
+21089	21.0	89.0	Greenup	KY	Kentucky
+21091	21.0	91.0	Hancock	KY	Kentucky
+21093	21.0	93.0	Hardin	KY	Kentucky
+21095	21.0	95.0	Harlan	KY	Kentucky
+21097	21.0	97.0	Harrison	KY	Kentucky
+21099	21.0	99.0	Hart	KY	Kentucky
+21101	21.0	101.0	Henderson	KY	Kentucky
+21103	21.0	103.0	Henry	KY	Kentucky
+21105	21.0	105.0	Hickman	KY	Kentucky
+21107	21.0	107.0	Hopkins	KY	Kentucky
+21109	21.0	109.0	Jackson	KY	Kentucky
+21111	21.0	111.0	Jefferson	KY	Kentucky
+21113	21.0	113.0	Jessamine	KY	Kentucky
+21115	21.0	115.0	Johnson	KY	Kentucky
+21117	21.0	117.0	Kenton	KY	Kentucky
+21119	21.0	119.0	Knott	KY	Kentucky
+21121	21.0	121.0	Knox	KY	Kentucky
+21123	21.0	123.0	Larue	KY	Kentucky
+21125	21.0	125.0	Laurel	KY	Kentucky
+21127	21.0	127.0	Lawrence	KY	Kentucky
+21129	21.0	129.0	Lee	KY	Kentucky
+21131	21.0	131.0	Leslie	KY	Kentucky
+21133	21.0	133.0	Letcher	KY	Kentucky
+21135	21.0	135.0	Lewis	KY	Kentucky
+21137	21.0	137.0	Lincoln	KY	Kentucky
+21139	21.0	139.0	Livingston	KY	Kentucky
+21141	21.0	141.0	Logan	KY	Kentucky
+21143	21.0	143.0	Lyon	KY	Kentucky
+21145	21.0	145.0	McCracken	KY	Kentucky
+21147	21.0	147.0	McCreary	KY	Kentucky
+21149	21.0	149.0	McLean	KY	Kentucky
+21151	21.0	151.0	Madison	KY	Kentucky
+21153	21.0	153.0	Magoffin	KY	Kentucky
+21155	21.0	155.0	Marion	KY	Kentucky
+21157	21.0	157.0	Marshall	KY	Kentucky
+21159	21.0	159.0	Martin	KY	Kentucky
+21161	21.0	161.0	Mason	KY	Kentucky
+21163	21.0	163.0	Meade	KY	Kentucky
+21165	21.0	165.0	Menifee	KY	Kentucky
+21167	21.0	167.0	Mercer	KY	Kentucky
+21169	21.0	169.0	Metcalfe	KY	Kentucky
+21171	21.0	171.0	Monroe	KY	Kentucky
+21173	21.0	173.0	Montgomery	KY	Kentucky
+21175	21.0	175.0	Morgan	KY	Kentucky
+21177	21.0	177.0	Muhlenberg	KY	Kentucky
+21179	21.0	179.0	Nelson	KY	Kentucky
+21181	21.0	181.0	Nicholas	KY	Kentucky
+21183	21.0	183.0	Ohio	KY	Kentucky
+21185	21.0	185.0	Oldham	KY	Kentucky
+21187	21.0	187.0	Owen	KY	Kentucky
+21189	21.0	189.0	Owsley	KY	Kentucky
+21191	21.0	191.0	Pendleton	KY	Kentucky
+21193	21.0	193.0	Perry	KY	Kentucky
+21195	21.0	195.0	Pike	KY	Kentucky
+21197	21.0	197.0	Powell	KY	Kentucky
+21199	21.0	199.0	Pulaski	KY	Kentucky
+21201	21.0	201.0	Robertson	KY	Kentucky
+21203	21.0	203.0	Rockcastle	KY	Kentucky
+21205	21.0	205.0	Rowan	KY	Kentucky
+21207	21.0	207.0	Russell	KY	Kentucky
+21209	21.0	209.0	Scott	KY	Kentucky
+21211	21.0	211.0	Shelby	KY	Kentucky
+21213	21.0	213.0	Simpson	KY	Kentucky
+21215	21.0	215.0	Spencer	KY	Kentucky
+21217	21.0	217.0	Taylor	KY	Kentucky
+21219	21.0	219.0	Todd	KY	Kentucky
+21221	21.0	221.0	Trigg	KY	Kentucky
+21223	21.0	223.0	Trimble	KY	Kentucky
+21225	21.0	225.0	Union	KY	Kentucky
+21227	21.0	227.0	Warren	KY	Kentucky
+21229	21.0	229.0	Washington	KY	Kentucky
+21231	21.0	231.0	Wayne	KY	Kentucky
+21233	21.0	233.0	Webster	KY	Kentucky
+21235	21.0	235.0	Whitley	KY	Kentucky
+21237	21.0	237.0	Wolfe	KY	Kentucky
+21239	21.0	239.0	Woodford	KY	Kentucky
+22001	22.0	1.0	Acadia	LA	Louisiana
+22003	22.0	3.0	Allen	LA	Louisiana
+22005	22.0	5.0	Ascension	LA	Louisiana
+22009	22.0	9.0	Avoyelles	LA	Louisiana
+22011	22.0	11.0	Beauregard	LA	Louisiana
+22013	22.0	13.0	Bienville	LA	Louisiana
+22015	22.0	15.0	Bossier	LA	Louisiana
+22019	22.0	19.0	Calcasieu	LA	Louisiana
+22021	22.0	21.0	Caldwell	LA	Louisiana
+22023	22.0	23.0	Cameron	LA	Louisiana
+22025	22.0	25.0	Catahoula	LA	Louisiana
+22027	22.0	27.0	Claiborne	LA	Louisiana
+22029	22.0	29.0	Concordia	LA	Louisiana
+22031	22.0	31.0	De Soto	LA	Louisiana
+22033	22.0	33.0	East Baton Rouge	LA	Louisiana
+22035	22.0	35.0	East Carroll	LA	Louisiana
+22037	22.0	37.0	East Feliciana	LA	Louisiana
+22039	22.0	39.0	Evangeline	LA	Louisiana
+22041	22.0	41.0	Franklin	LA	Louisiana
+22043	22.0	43.0	Grant	LA	Louisiana
+22047	22.0	47.0	Iberville	LA	Louisiana
+22049	22.0	49.0	Jackson	LA	Louisiana
+22051	22.0	51.0	Jefferson	LA	Louisiana
+22053	22.0	53.0	Jefferson Davis	LA	Louisiana
+22055	22.0	55.0	Lafayette	LA	Louisiana
+22057	22.0	57.0	Lafourche	LA	Louisiana
+22059	22.0	59.0	La Salle	LA	Louisiana
+22061	22.0	61.0	Lincoln	LA	Louisiana
+22063	22.0	63.0	Livingston	LA	Louisiana
+22065	22.0	65.0	Madison	LA	Louisiana
+22067	22.0	67.0	Morehouse	LA	Louisiana
+22069	22.0	69.0	Natchitoches	LA	Louisiana
+22071	22.0	71.0	Orleans	LA	Louisiana
+22073	22.0	73.0	Ouachita	LA	Louisiana
+22079	22.0	79.0	Rapides	LA	Louisiana
+22081	22.0	81.0	Red River	LA	Louisiana
+22083	22.0	83.0	Richland	LA	Louisiana
+22085	22.0	85.0	Sabine	LA	Louisiana
+22089	22.0	89.0	St Charles	LA	Louisiana
+22091	22.0	91.0	St Helena	LA	Louisiana
+22095	22.0	95.0	St John the Baptist	LA	Louisiana
+22097	22.0	97.0	St Landry	LA	Louisiana
+22099	22.0	99.0	St Martin	LA	Louisiana
+22101	22.0	101.0	St Mary	LA	Louisiana
+22103	22.0	103.0	St Tammany	LA	Louisiana
+22107	22.0	107.0	Tensas	LA	Louisiana
+22111	22.0	111.0	Union	LA	Louisiana
+22113	22.0	113.0	Vermilion	LA	Louisiana
+22115	22.0	115.0	Vernon	LA	Louisiana
+22119	22.0	119.0	Webster	LA	Louisiana
+22121	22.0	121.0	West Baton Rouge	LA	Louisiana
+22123	22.0	123.0	West Carroll	LA	Louisiana
+22125	22.0	125.0	West Feliciana	LA	Louisiana
+22127	22.0	127.0	Winn	LA	Louisiana
+23001	23.0	1.0	Androscoggin	ME	Maine
+23003	23.0	3.0	Aroostook	ME	Maine
+23005	23.0	5.0	Cumberland	ME	Maine
+23007	23.0	7.0	Franklin	ME	Maine
+23009	23.0	9.0	Hancock	ME	Maine
+23011	23.0	11.0	Kennebec	ME	Maine
+23013	23.0	13.0	Knox	ME	Maine
+23015	23.0	15.0	Lincoln	ME	Maine
+23017	23.0	17.0	Oxford	ME	Maine
+23019	23.0	19.0	Penobscot	ME	Maine
+23021	23.0	21.0	Piscataquis	ME	Maine
+23023	23.0	23.0	Sagadahoc	ME	Maine
+23025	23.0	25.0	Somerset	ME	Maine
+23027	23.0	27.0	Waldo	ME	Maine
+23029	23.0	29.0	Washington	ME	Maine
+23031	23.0	31.0	York	ME	Maine
+24001	24.0	1.0	Allegany	MD	Maryland
+24011	24.0	11.0	Caroline	MD	Maryland
+24015	24.0	15.0	Cecil	MD	Maryland
+24019	24.0	19.0	Dorchester	MD	Maryland
+24023	24.0	23.0	Garrett	MD	Maryland
+24029	24.0	29.0	Kent	MD	Maryland
+24035	24.0	35.0	Queen Annes	MD	Maryland
+24039	24.0	39.0	Somerset	MD	Maryland
+24041	24.0	41.0	Talbot	MD	Maryland
+24045	24.0	45.0	Wicomico	MD	Maryland
+24047	24.0	47.0	Worcester	MD	Maryland
+25001	25.0	1.0	Barnstable	MA	Massachusetts
+25003	25.0	3.0	Berkshire	MA	Massachusetts
+25005	25.0	5.0	Bristol	MA	Massachusetts
+25007	25.0	7.0	Dukes	MA	Massachusetts
+25009	25.0	9.0	Essex	MA	Massachusetts
+25011	25.0	11.0	Franklin	MA	Massachusetts
+25013	25.0	13.0	Hampden	MA	Massachusetts
+25015	25.0	15.0	Hampshire	MA	Massachusetts
+25017	25.0	17.0	Middlesex	MA	Massachusetts
+25019	25.0	19.0	Nantucket	MA	Massachusetts
+25021	25.0	21.0	Norfolk	MA	Massachusetts
+25023	25.0	23.0	Plymouth	MA	Massachusetts
+25025	25.0	25.0	Suffolk	MA	Massachusetts
+25027	25.0	27.0	Worcester	MA	Massachusetts
+26001	26.0	1.0	Alcona	MI	Michigan
+26003	26.0	3.0	Alger	MI	Michigan
+26005	26.0	5.0	Allegan	MI	Michigan
+26007	26.0	7.0	Alpena	MI	Michigan
+26009	26.0	9.0	Antrim	MI	Michigan
+26011	26.0	11.0	Arenac	MI	Michigan
+26013	26.0	13.0	Baraga	MI	Michigan
+26015	26.0	15.0	Barry	MI	Michigan
+26017	26.0	17.0	Bay	MI	Michigan
+26019	26.0	19.0	Benzie	MI	Michigan
+26021	26.0	21.0	Berrien	MI	Michigan
+26023	26.0	23.0	Branch	MI	Michigan
+26025	26.0	25.0	Calhoun	MI	Michigan
+26027	26.0	27.0	Cass	MI	Michigan
+26029	26.0	29.0	Charlevoix	MI	Michigan
+26031	26.0	31.0	Cheboygan	MI	Michigan
+26033	26.0	33.0	Chippewa	MI	Michigan
+26035	26.0	35.0	Clare	MI	Michigan
+26037	26.0	37.0	Clinton	MI	Michigan
+26039	26.0	39.0	Crawford	MI	Michigan
+26041	26.0	41.0	Delta	MI	Michigan
+26043	26.0	43.0	Dickinson	MI	Michigan
+26045	26.0	45.0	Eaton	MI	Michigan
+26047	26.0	47.0	Emmet	MI	Michigan
+26049	26.0	49.0	Genesee	MI	Michigan
+26051	26.0	51.0	Gladwin	MI	Michigan
+26053	26.0	53.0	Gogebic	MI	Michigan
+26055	26.0	55.0	Grand Traverse	MI	Michigan
+26057	26.0	57.0	Gratiot	MI	Michigan
+26059	26.0	59.0	Hillsdale	MI	Michigan
+26061	26.0	61.0	Houghton	MI	Michigan
+26063	26.0	63.0	Huron	MI	Michigan
+26065	26.0	65.0	Ingham	MI	Michigan
+26067	26.0	67.0	Ionia	MI	Michigan
+26069	26.0	69.0	Iosco	MI	Michigan
+26071	26.0	71.0	Iron	MI	Michigan
+26073	26.0	73.0	Isabella	MI	Michigan
+26075	26.0	75.0	Jackson	MI	Michigan
+26077	26.0	77.0	Kalamazoo	MI	Michigan
+26079	26.0	79.0	Kalkaska	MI	Michigan
+26081	26.0	81.0	Kent	MI	Michigan
+26083	26.0	83.0	Keweenaw	MI	Michigan
+26085	26.0	85.0	Lake	MI	Michigan
+26089	26.0	89.0	Leelanau	MI	Michigan
+26091	26.0	91.0	Lenawee	MI	Michigan
+26093	26.0	93.0	Livingston	MI	Michigan
+26095	26.0	95.0	Luce	MI	Michigan
+26097	26.0	97.0	Mackinac	MI	Michigan
+26099	26.0	99.0	Macomb	MI	Michigan
+26101	26.0	101.0	Manistee	MI	Michigan
+26103	26.0	103.0	Marquette	MI	Michigan
+26105	26.0	105.0	Mason	MI	Michigan
+26107	26.0	107.0	Mecosta	MI	Michigan
+26109	26.0	109.0	Menominee	MI	Michigan
+26111	26.0	111.0	Midland	MI	Michigan
+26113	26.0	113.0	Missaukee	MI	Michigan
+26115	26.0	115.0	Monroe	MI	Michigan
+26117	26.0	117.0	Montcalm	MI	Michigan
+26119	26.0	119.0	Montmorency	MI	Michigan
+26121	26.0	121.0	Muskegon	MI	Michigan
+26123	26.0	123.0	Newaygo	MI	Michigan
+26125	26.0	125.0	Oakland	MI	Michigan
+26127	26.0	127.0	Oceana	MI	Michigan
+26129	26.0	129.0	Ogemaw	MI	Michigan
+26131	26.0	131.0	Ontonagon	MI	Michigan
+26133	26.0	133.0	Osceola	MI	Michigan
+26135	26.0	135.0	Oscoda	MI	Michigan
+26137	26.0	137.0	Otsego	MI	Michigan
+26139	26.0	139.0	Ottawa	MI	Michigan
+26141	26.0	141.0	Presque Isle	MI	Michigan
+26143	26.0	143.0	Roscommon	MI	Michigan
+26145	26.0	145.0	Saginaw	MI	Michigan
+26149	26.0	149.0	St Joseph	MI	Michigan
+26151	26.0	151.0	Sanilac	MI	Michigan
+26153	26.0	153.0	Schoolcraft	MI	Michigan
+26155	26.0	155.0	Shiawassee	MI	Michigan
+26157	26.0	157.0	Tuscola	MI	Michigan
+26159	26.0	159.0	Van Buren	MI	Michigan
+26161	26.0	161.0	Washtenaw	MI	Michigan
+26163	26.0	163.0	Wayne	MI	Michigan
+26165	26.0	165.0	Wexford	MI	Michigan
+27001	27.0	1.0	Aitkin	MN	Minnesota
+27003	27.0	3.0	Anoka	MN	Minnesota
+27005	27.0	5.0	Becker	MN	Minnesota
+27007	27.0	7.0	Beltrami	MN	Minnesota
+27009	27.0	9.0	Benton	MN	Minnesota
+27011	27.0	11.0	Big Stone	MN	Minnesota
+27013	27.0	13.0	Blue Earth	MN	Minnesota
+27015	27.0	15.0	Brown	MN	Minnesota
+27017	27.0	17.0	Carlton	MN	Minnesota
+27019	27.0	19.0	Carver	MN	Minnesota
+27021	27.0	21.0	Cass	MN	Minnesota
+27023	27.0	23.0	Chippewa	MN	Minnesota
+27025	27.0	25.0	Chisago	MN	Minnesota
+27027	27.0	27.0	Clay	MN	Minnesota
+27029	27.0	29.0	Clearwater	MN	Minnesota
+27031	27.0	31.0	Cook	MN	Minnesota
+27033	27.0	33.0	Cottonwood	MN	Minnesota
+27035	27.0	35.0	Crow Wing	MN	Minnesota
+27037	27.0	37.0	Dakota	MN	Minnesota
+27039	27.0	39.0	Dodge	MN	Minnesota
+27041	27.0	41.0	Douglas	MN	Minnesota
+27043	27.0	43.0	Faribault	MN	Minnesota
+27045	27.0	45.0	Fillmore	MN	Minnesota
+27047	27.0	47.0	Freeborn	MN	Minnesota
+27049	27.0	49.0	Goodhue	MN	Minnesota
+27051	27.0	51.0	Grant	MN	Minnesota
+27053	27.0	53.0	Hennepin	MN	Minnesota
+27055	27.0	55.0	Houston	MN	Minnesota
+27057	27.0	57.0	Hubbard	MN	Minnesota
+27059	27.0	59.0	Isanti	MN	Minnesota
+27061	27.0	61.0	Itasca	MN	Minnesota
+27063	27.0	63.0	Jackson	MN	Minnesota
+27065	27.0	65.0	Kanabec	MN	Minnesota
+27067	27.0	67.0	Kandiyohi	MN	Minnesota
+27069	27.0	69.0	Kittson	MN	Minnesota
+27071	27.0	71.0	Koochiching	MN	Minnesota
+27073	27.0	73.0	Lac qui Parle	MN	Minnesota
+27075	27.0	75.0	Lake	MN	Minnesota
+27077	27.0	77.0	Lake of the Woods	MN	Minnesota
+27079	27.0	79.0	Le Sueur	MN	Minnesota
+27081	27.0	81.0	Lincoln	MN	Minnesota
+27083	27.0	83.0	Lyon	MN	Minnesota
+27085	27.0	85.0	McLeod	MN	Minnesota
+27087	27.0	87.0	Mahnomen	MN	Minnesota
+27089	27.0	89.0	Marshall	MN	Minnesota
+27091	27.0	91.0	Martin	MN	Minnesota
+27093	27.0	93.0	Meeker	MN	Minnesota
+27095	27.0	95.0	Mille Lacs	MN	Minnesota
+27097	27.0	97.0	Morrison	MN	Minnesota
+27099	27.0	99.0	Mower	MN	Minnesota
+27101	27.0	101.0	Murray	MN	Minnesota
+27103	27.0	103.0	Nicollet	MN	Minnesota
+27105	27.0	105.0	Nobles	MN	Minnesota
+27107	27.0	107.0	Norman	MN	Minnesota
+27109	27.0	109.0	Olmsted	MN	Minnesota
+27111	27.0	111.0	Otter Tail	MN	Minnesota
+27113	27.0	113.0	Pennington	MN	Minnesota
+27115	27.0	115.0	Pine	MN	Minnesota
+27117	27.0	117.0	Pipestone	MN	Minnesota
+27119	27.0	119.0	Polk	MN	Minnesota
+27121	27.0	121.0	Pope	MN	Minnesota
+27123	27.0	123.0	Ramsey	MN	Minnesota
+27125	27.0	125.0	Red Lake	MN	Minnesota
+27127	27.0	127.0	Redwood	MN	Minnesota
+27129	27.0	129.0	Renville	MN	Minnesota
+27131	27.0	131.0	Rice	MN	Minnesota
+27133	27.0	133.0	Rock	MN	Minnesota
+27135	27.0	135.0	Roseau	MN	Minnesota
+27137	27.0	137.0	St Louis	MN	Minnesota
+27139	27.0	139.0	Scott	MN	Minnesota
+27141	27.0	141.0	Sherburne	MN	Minnesota
+27143	27.0	143.0	Sibley	MN	Minnesota
+27145	27.0	145.0	Stearns	MN	Minnesota
+27147	27.0	147.0	Steele	MN	Minnesota
+27149	27.0	149.0	Stevens	MN	Minnesota
+27151	27.0	151.0	Swift	MN	Minnesota
+27153	27.0	153.0	Todd	MN	Minnesota
+27155	27.0	155.0	Traverse	MN	Minnesota
+27157	27.0	157.0	Wabasha	MN	Minnesota
+27159	27.0	159.0	Wadena	MN	Minnesota
+27161	27.0	161.0	Waseca	MN	Minnesota
+27163	27.0	163.0	Washington	MN	Minnesota
+27165	27.0	165.0	Watonwan	MN	Minnesota
+27167	27.0	167.0	Wilkin	MN	Minnesota
+27169	27.0	169.0	Winona	MN	Minnesota
+27171	27.0	171.0	Wright	MN	Minnesota
+27173	27.0	173.0	Yellow Medicine	MN	Minnesota
+28001	28.0	1.0	Adams	MS	Mississippi
+28003	28.0	3.0	Alcorn	MS	Mississippi
+28007	28.0	7.0	Attala	MS	Mississippi
+28009	28.0	9.0	Benton	MS	Mississippi
+28011	28.0	11.0	Bolivar	MS	Mississippi
+28013	28.0	13.0	Calhoun	MS	Mississippi
+28015	28.0	15.0	Carroll	MS	Mississippi
+28017	28.0	17.0	Chickasaw	MS	Mississippi
+28019	28.0	19.0	Choctaw	MS	Mississippi
+28021	28.0	21.0	Claiborne	MS	Mississippi
+28023	28.0	23.0	Clarke	MS	Mississippi
+28025	28.0	25.0	Clay	MS	Mississippi
+28027	28.0	27.0	Coahoma	MS	Mississippi
+28029	28.0	29.0	Copiah	MS	Mississippi
+28031	28.0	31.0	Covington	MS	Mississippi
+28033	28.0	33.0	De Soto	MS	Mississippi
+28035	28.0	35.0	Forrest	MS	Mississippi
+28037	28.0	37.0	Franklin	MS	Mississippi
+28039	28.0	39.0	George	MS	Mississippi
+28041	28.0	41.0	Greene	MS	Mississippi
+28043	28.0	43.0	Grenada	MS	Mississippi
+28045	28.0	45.0	Hancock	MS	Mississippi
+28047	28.0	47.0	Harrison	MS	Mississippi
+28049	28.0	49.0	Hinds	MS	Mississippi
+28051	28.0	51.0	Holmes	MS	Mississippi
+28053	28.0	53.0	Humphreys	MS	Mississippi
+28055	28.0	55.0	Issaquena	MS	Mississippi
+28057	28.0	57.0	Itawamba	MS	Mississippi
+28059	28.0	59.0	Jackson	MS	Mississippi
+28061	28.0	61.0	Jasper	MS	Mississippi
+28063	28.0	63.0	Jefferson	MS	Mississippi
+28065	28.0	65.0	Jefferson Davis	MS	Mississippi
+28067	28.0	67.0	Jones	MS	Mississippi
+28069	28.0	69.0	Kemper	MS	Mississippi
+28071	28.0	71.0	Lafayette	MS	Mississippi
+28073	28.0	73.0	Lamar	MS	Mississippi
+28075	28.0	75.0	Lauderdale	MS	Mississippi
+28077	28.0	77.0	Lawrence	MS	Mississippi
+28079	28.0	79.0	Leake	MS	Mississippi
+28081	28.0	81.0	Lee	MS	Mississippi
+28083	28.0	83.0	Leflore	MS	Mississippi
+28085	28.0	85.0	Lincoln	MS	Mississippi
+28087	28.0	87.0	Lowndes	MS	Mississippi
+28089	28.0	89.0	Madison	MS	Mississippi
+28091	28.0	91.0	Marion	MS	Mississippi
+28093	28.0	93.0	Marshall	MS	Mississippi
+28095	28.0	95.0	Monroe	MS	Mississippi
+28097	28.0	97.0	Montgomery	MS	Mississippi
+28099	28.0	99.0	Neshoba	MS	Mississippi
+28101	28.0	101.0	Newton	MS	Mississippi
+28103	28.0	103.0	Noxubee	MS	Mississippi
+28105	28.0	105.0	Oktibbeha	MS	Mississippi
+28107	28.0	107.0	Panola	MS	Mississippi
+28109	28.0	109.0	Pearl River	MS	Mississippi
+28111	28.0	111.0	Perry	MS	Mississippi
+28113	28.0	113.0	Pike	MS	Mississippi
+28115	28.0	115.0	Pontotoc	MS	Mississippi
+28119	28.0	119.0	Quitman	MS	Mississippi
+28121	28.0	121.0	Rankin	MS	Mississippi
+28123	28.0	123.0	Scott	MS	Mississippi
+28125	28.0	125.0	Sharkey	MS	Mississippi
+28127	28.0	127.0	Simpson	MS	Mississippi
+28129	28.0	129.0	Smith	MS	Mississippi
+28131	28.0	131.0	Stone	MS	Mississippi
+28133	28.0	133.0	Sunflower	MS	Mississippi
+28135	28.0	135.0	Tallahatchie	MS	Mississippi
+28137	28.0	137.0	Tate	MS	Mississippi
+28139	28.0	139.0	Tippah	MS	Mississippi
+28141	28.0	141.0	Tishomingo	MS	Mississippi
+28143	28.0	143.0	Tunica	MS	Mississippi
+28145	28.0	145.0	Union	MS	Mississippi
+28147	28.0	147.0	Walthall	MS	Mississippi
+28149	28.0	149.0	Warren	MS	Mississippi
+28151	28.0	151.0	Washington	MS	Mississippi
+28153	28.0	153.0	Wayne	MS	Mississippi
+28155	28.0	155.0	Webster	MS	Mississippi
+28157	28.0	157.0	Wilkinson	MS	Mississippi
+28159	28.0	159.0	Winston	MS	Mississippi
+28161	28.0	161.0	Yalobusha	MS	Mississippi
+28163	28.0	163.0	Yazoo	MS	Mississippi
+29001	29.0	1.0	Adair	MO	Missouri
+29003	29.0	3.0	Andrew	MO	Missouri
+29005	29.0	5.0	Atchison	MO	Missouri
+29007	29.0	7.0	Audrain	MO	Missouri
+29009	29.0	9.0	Barry	MO	Missouri
+29011	29.0	11.0	Barton	MO	Missouri
+29013	29.0	13.0	Bates	MO	Missouri
+29015	29.0	15.0	Benton	MO	Missouri
+29017	29.0	17.0	Bollinger	MO	Missouri
+29019	29.0	19.0	Boone	MO	Missouri
+29021	29.0	21.0	Buchanan	MO	Missouri
+29023	29.0	23.0	Butler	MO	Missouri
+29025	29.0	25.0	Caldwell	MO	Missouri
+29027	29.0	27.0	Callaway	MO	Missouri
+29029	29.0	29.0	Camden	MO	Missouri
+29031	29.0	31.0	Cape Girardeau	MO	Missouri
+29033	29.0	33.0	Carroll	MO	Missouri
+29035	29.0	35.0	Carter	MO	Missouri
+29037	29.0	37.0	Cass	MO	Missouri
+29039	29.0	39.0	Cedar	MO	Missouri
+29041	29.0	41.0	Chariton	MO	Missouri
+29043	29.0	43.0	Christian	MO	Missouri
+29045	29.0	45.0	Clark	MO	Missouri
+29047	29.0	47.0	Clay	MO	Missouri
+29049	29.0	49.0	Clinton	MO	Missouri
+29051	29.0	51.0	Cole	MO	Missouri
+29053	29.0	53.0	Cooper	MO	Missouri
+29055	29.0	55.0	Crawford	MO	Missouri
+29057	29.0	57.0	Dade	MO	Missouri
+29059	29.0	59.0	Dallas	MO	Missouri
+29061	29.0	61.0	Daviess	MO	Missouri
+29063	29.0	63.0	De Kalb	MO	Missouri
+29065	29.0	65.0	Dent	MO	Missouri
+29067	29.0	67.0	Douglas	MO	Missouri
+29069	29.0	69.0	Dunklin	MO	Missouri
+29071	29.0	71.0	Franklin	MO	Missouri
+29073	29.0	73.0	Gasconade	MO	Missouri
+29075	29.0	75.0	Gentry	MO	Missouri
+29077	29.0	77.0	Greene	MO	Missouri
+29079	29.0	79.0	Grundy	MO	Missouri
+29081	29.0	81.0	Harrison	MO	Missouri
+29083	29.0	83.0	Henry	MO	Missouri
+29085	29.0	85.0	Hickory	MO	Missouri
+29087	29.0	87.0	Holt	MO	Missouri
+29089	29.0	89.0	Howard	MO	Missouri
+29091	29.0	91.0	Howell	MO	Missouri
+29093	29.0	93.0	Iron	MO	Missouri
+29095	29.0	95.0	Jackson	MO	Missouri
+29097	29.0	97.0	Jasper	MO	Missouri
+29101	29.0	101.0	Johnson	MO	Missouri
+29103	29.0	103.0	Knox	MO	Missouri
+29105	29.0	105.0	Laclede	MO	Missouri
+29107	29.0	107.0	Lafayette	MO	Missouri
+29109	29.0	109.0	Lawrence	MO	Missouri
+29111	29.0	111.0	Lewis	MO	Missouri
+29113	29.0	113.0	Lincoln	MO	Missouri
+29115	29.0	115.0	Linn	MO	Missouri
+29117	29.0	117.0	Livingston	MO	Missouri
+29119	29.0	119.0	McDonald	MO	Missouri
+29121	29.0	121.0	Macon	MO	Missouri
+29123	29.0	123.0	Madison	MO	Missouri
+29125	29.0	125.0	Maries	MO	Missouri
+29127	29.0	127.0	Marion	MO	Missouri
+29129	29.0	129.0	Mercer	MO	Missouri
+29131	29.0	131.0	Miller	MO	Missouri
+29133	29.0	133.0	Mississippi	MO	Missouri
+29135	29.0	135.0	Moniteau	MO	Missouri
+29137	29.0	137.0	Monroe	MO	Missouri
+29139	29.0	139.0	Montgomery	MO	Missouri
+29141	29.0	141.0	Morgan	MO	Missouri
+29143	29.0	143.0	New Madrid	MO	Missouri
+29145	29.0	145.0	Newton	MO	Missouri
+29147	29.0	147.0	Nodaway	MO	Missouri
+29149	29.0	149.0	Oregon	MO	Missouri
+29151	29.0	151.0	Osage	MO	Missouri
+29153	29.0	153.0	Ozark	MO	Missouri
+29155	29.0	155.0	Pemiscot	MO	Missouri
+29157	29.0	157.0	Perry	MO	Missouri
+29159	29.0	159.0	Pettis	MO	Missouri
+29161	29.0	161.0	Phelps	MO	Missouri
+29163	29.0	163.0	Pike	MO	Missouri
+29165	29.0	165.0	Platte	MO	Missouri
+29167	29.0	167.0	Polk	MO	Missouri
+29169	29.0	169.0	Pulaski	MO	Missouri
+29171	29.0	171.0	Putnam	MO	Missouri
+29173	29.0	173.0	Ralls	MO	Missouri
+29175	29.0	175.0	Randolph	MO	Missouri
+29177	29.0	177.0	Ray	MO	Missouri
+29179	29.0	179.0	Reynolds	MO	Missouri
+29181	29.0	181.0	Ripley	MO	Missouri
+29183	29.0	183.0	St Charles	MO	Missouri
+29185	29.0	185.0	St Clair	MO	Missouri
+29186	29.0	186.0	Ste. Genevieve	MO	Missouri
+29187	29.0	187.0	St Francois	MO	Missouri
+29189	29.0	189.0	St Louis	MO	Missouri
+29195	29.0	195.0	Saline	MO	Missouri
+29197	29.0	197.0	Schuyler	MO	Missouri
+29199	29.0	199.0	Scotland	MO	Missouri
+29201	29.0	201.0	Scott	MO	Missouri
+29203	29.0	203.0	Shannon	MO	Missouri
+29205	29.0	205.0	Shelby	MO	Missouri
+29207	29.0	207.0	Stoddard	MO	Missouri
+29209	29.0	209.0	Stone	MO	Missouri
+29211	29.0	211.0	Sullivan	MO	Missouri
+29213	29.0	213.0	Taney	MO	Missouri
+29215	29.0	215.0	Texas	MO	Missouri
+29217	29.0	217.0	Vernon	MO	Missouri
+29219	29.0	219.0	Warren	MO	Missouri
+29221	29.0	221.0	Washington	MO	Missouri
+29223	29.0	223.0	Wayne	MO	Missouri
+29225	29.0	225.0	Webster	MO	Missouri
+29227	29.0	227.0	Worth	MO	Missouri
+29229	29.0	229.0	Wright	MO	Missouri
+29510	29.0	510.0	St Louis City	MO	Missouri
+30001	30.0	1.0	Beaverhead	MT	Montana
+30003	30.0	3.0	Big Horn	MT	Montana
+30005	30.0	5.0	Blaine	MT	Montana
+30007	30.0	7.0	Broadwater	MT	Montana
+30009	30.0	9.0	Carbon	MT	Montana
+30011	30.0	11.0	Carter	MT	Montana
+30013	30.0	13.0	Cascade	MT	Montana
+30015	30.0	15.0	Chouteau	MT	Montana
+30017	30.0	17.0	Custer	MT	Montana
+30019	30.0	19.0	Daniels	MT	Montana
+30021	30.0	21.0	Dawson	MT	Montana
+30023	30.0	23.0	Deer Lodge	MT	Montana
+30025	30.0	25.0	Fallon	MT	Montana
+30027	30.0	27.0	Fergus	MT	Montana
+30029	30.0	29.0	Flathead	MT	Montana
+30031	30.0	31.0	Gallatin	MT	Montana
+30033	30.0	33.0	Garfield	MT	Montana
+30035	30.0	35.0	Glacier	MT	Montana
+30037	30.0	37.0	Golden Valley	MT	Montana
+30039	30.0	39.0	Granite	MT	Montana
+30041	30.0	41.0	Hill	MT	Montana
+30043	30.0	43.0	Jefferson	MT	Montana
+30045	30.0	45.0	Judith Basin	MT	Montana
+30047	30.0	47.0	Lake	MT	Montana
+30049	30.0	49.0	Lewis and Clark	MT	Montana
+30051	30.0	51.0	Liberty	MT	Montana
+30055	30.0	55.0	McCone	MT	Montana
+30057	30.0	57.0	Madison	MT	Montana
+30059	30.0	59.0	Meagher	MT	Montana
+30061	30.0	61.0	Mineral	MT	Montana
+30063	30.0	63.0	Missoula	MT	Montana
+30065	30.0	65.0	Musselshell	MT	Montana
+30067	30.0	67.0	Park	MT	Montana
+30069	30.0	69.0	Petroleum	MT	Montana
+30071	30.0	71.0	Phillips	MT	Montana
+30073	30.0	73.0	Pondera	MT	Montana
+30075	30.0	75.0	Powder River	MT	Montana
+30077	30.0	77.0	Powell	MT	Montana
+30079	30.0	79.0	Prairie	MT	Montana
+30081	30.0	81.0	Ravalli	MT	Montana
+30083	30.0	83.0	Richland	MT	Montana
+30085	30.0	85.0	Roosevelt	MT	Montana
+30087	30.0	87.0	Rosebud	MT	Montana
+30089	30.0	89.0	Sanders	MT	Montana
+30091	30.0	91.0	Sheridan	MT	Montana
+30093	30.0	93.0	Silver Bow	MT	Montana
+30095	30.0	95.0	Stillwater	MT	Montana
+30097	30.0	97.0	Sweet Grass	MT	Montana
+30099	30.0	99.0	Teton	MT	Montana
+30101	30.0	101.0	Toole	MT	Montana
+30103	30.0	103.0	Treasure	MT	Montana
+30105	30.0	105.0	Valley	MT	Montana
+30107	30.0	107.0	Wheatland	MT	Montana
+30109	30.0	109.0	Wibaux	MT	Montana
+30111	30.0	111.0	Yellowstone	MT	Montana
+31001	31.0	1.0	Adams	NE	Nebraska
+31003	31.0	3.0	Antelope	NE	Nebraska
+31005	31.0	5.0	Arthur	NE	Nebraska
+31007	31.0	7.0	Banner	NE	Nebraska
+31009	31.0	9.0	Blaine	NE	Nebraska
+31011	31.0	11.0	Boone	NE	Nebraska
+31013	31.0	13.0	Box Butte	NE	Nebraska
+31015	31.0	15.0	Boyd	NE	Nebraska
+31017	31.0	17.0	Brown	NE	Nebraska
+31019	31.0	19.0	Buffalo	NE	Nebraska
+31021	31.0	21.0	Burt	NE	Nebraska
+31023	31.0	23.0	Butler	NE	Nebraska
+31025	31.0	25.0	Cass	NE	Nebraska
+31027	31.0	27.0	Cedar	NE	Nebraska
+31029	31.0	29.0	Chase	NE	Nebraska
+31031	31.0	31.0	Cherry	NE	Nebraska
+31033	31.0	33.0	Cheyenne	NE	Nebraska
+31035	31.0	35.0	Clay	NE	Nebraska
+31037	31.0	37.0	Colfax	NE	Nebraska
+31039	31.0	39.0	Cuming	NE	Nebraska
+31041	31.0	41.0	Custer	NE	Nebraska
+31043	31.0	43.0	Dakota	NE	Nebraska
+31045	31.0	45.0	Dawes	NE	Nebraska
+31047	31.0	47.0	Dawson	NE	Nebraska
+31049	31.0	49.0	Deuel	NE	Nebraska
+31051	31.0	51.0	Dixon	NE	Nebraska
+31053	31.0	53.0	Dodge	NE	Nebraska
+31055	31.0	55.0	Douglas	NE	Nebraska
+31057	31.0	57.0	Dundy	NE	Nebraska
+31059	31.0	59.0	Fillmore	NE	Nebraska
+31061	31.0	61.0	Franklin	NE	Nebraska
+31063	31.0	63.0	Frontier	NE	Nebraska
+31065	31.0	65.0	Furnas	NE	Nebraska
+31067	31.0	67.0	Gage	NE	Nebraska
+31069	31.0	69.0	Garden	NE	Nebraska
+31071	31.0	71.0	Garfield	NE	Nebraska
+31073	31.0	73.0	Gosper	NE	Nebraska
+31075	31.0	75.0	Grant	NE	Nebraska
+31077	31.0	77.0	Greeley	NE	Nebraska
+31079	31.0	79.0	Hall	NE	Nebraska
+31081	31.0	81.0	Hamilton	NE	Nebraska
+31083	31.0	83.0	Harlan	NE	Nebraska
+31085	31.0	85.0	Hayes	NE	Nebraska
+31087	31.0	87.0	Hitchcock	NE	Nebraska
+31089	31.0	89.0	Holt	NE	Nebraska
+31091	31.0	91.0	Hooker	NE	Nebraska
+31093	31.0	93.0	Howard	NE	Nebraska
+31095	31.0	95.0	Jefferson	NE	Nebraska
+31097	31.0	97.0	Johnson	NE	Nebraska
+31099	31.0	99.0	Kearney	NE	Nebraska
+31101	31.0	101.0	Keith	NE	Nebraska
+31103	31.0	103.0	Keya Paha	NE	Nebraska
+31105	31.0	105.0	Kimball	NE	Nebraska
+31107	31.0	107.0	Knox	NE	Nebraska
+31109	31.0	109.0	Lancaster	NE	Nebraska
+31111	31.0	111.0	Lincoln	NE	Nebraska
+31113	31.0	113.0	Logan	NE	Nebraska
+31115	31.0	115.0	Loup	NE	Nebraska
+31117	31.0	117.0	McPherson	NE	Nebraska
+31119	31.0	119.0	Madison	NE	Nebraska
+31121	31.0	121.0	Merrick	NE	Nebraska
+31123	31.0	123.0	Morrill	NE	Nebraska
+31125	31.0	125.0	Nance	NE	Nebraska
+31127	31.0	127.0	Nemaha	NE	Nebraska
+31129	31.0	129.0	Nuckolls	NE	Nebraska
+31131	31.0	131.0	Otoe	NE	Nebraska
+31133	31.0	133.0	Pawnee	NE	Nebraska
+31135	31.0	135.0	Perkins	NE	Nebraska
+31137	31.0	137.0	Phelps	NE	Nebraska
+31139	31.0	139.0	Pierce	NE	Nebraska
+31141	31.0	141.0	Platte	NE	Nebraska
+31143	31.0	143.0	Polk	NE	Nebraska
+31145	31.0	145.0	Red Willow	NE	Nebraska
+31147	31.0	147.0	Richardson	NE	Nebraska
+31149	31.0	149.0	Rock	NE	Nebraska
+31151	31.0	151.0	Saline	NE	Nebraska
+31153	31.0	153.0	Sarpy	NE	Nebraska
+31155	31.0	155.0	Saunders	NE	Nebraska
+31157	31.0	157.0	Scotts Bluff	NE	Nebraska
+31159	31.0	159.0	Seward	NE	Nebraska
+31161	31.0	161.0	Sheridan	NE	Nebraska
+31163	31.0	163.0	Sherman	NE	Nebraska
+31165	31.0	165.0	Sioux	NE	Nebraska
+31167	31.0	167.0	Stanton	NE	Nebraska
+31169	31.0	169.0	Thayer	NE	Nebraska
+31171	31.0	171.0	Thomas	NE	Nebraska
+31173	31.0	173.0	Thurston	NE	Nebraska
+31175	31.0	175.0	Valley	NE	Nebraska
+31177	31.0	177.0	Washington	NE	Nebraska
+31179	31.0	179.0	Wayne	NE	Nebraska
+31181	31.0	181.0	Webster	NE	Nebraska
+31183	31.0	183.0	Wheeler	NE	Nebraska
+31185	31.0	185.0	York	NE	Nebraska
+32001	32.0	1.0	Churchill	NV	Nevada
+32003	32.0	3.0	Clark	NV	Nevada
+32005	32.0	5.0	Douglas	NV	Nevada
+32007	32.0	7.0	Elko	NV	Nevada
+32009	32.0	9.0	Esmeralda	NV	Nevada
+32011	32.0	11.0	Eureka	NV	Nevada
+32013	32.0	13.0	Humboldt	NV	Nevada
+32015	32.0	15.0	Lander	NV	Nevada
+32017	32.0	17.0	Lincoln	NV	Nevada
+32019	32.0	19.0	Lyon	NV	Nevada
+32021	32.0	21.0	Mineral	NV	Nevada
+32023	32.0	23.0	Nye	NV	Nevada
+32027	32.0	27.0	Pershing	NV	Nevada
+32029	32.0	29.0	Storey	NV	Nevada
+32031	32.0	31.0	Washoe	NV	Nevada
+32033	32.0	33.0	White Pine	NV	Nevada
+32510	32.0	510.0	Carson City	NV	Nevada
+33001	33.0	1.0	Belknap	NH	New Hampshire
+33003	33.0	3.0	Carroll	NH	New Hampshire
+33005	33.0	5.0	Cheshire	NH	New Hampshire
+33007	33.0	7.0	Coos	NH	New Hampshire
+33009	33.0	9.0	Grafton	NH	New Hampshire
+33011	33.0	11.0	Hillsborough	NH	New Hampshire
+33013	33.0	13.0	Merrimack	NH	New Hampshire
+33015	33.0	15.0	Rockingham	NH	New Hampshire
+33017	33.0	17.0	Strafford	NH	New Hampshire
+33019	33.0	19.0	Sullivan	NH	New Hampshire
+34001	34.0	1.0	Atlantic	NJ	New Jersey
+34003	34.0	3.0	Bergen	NJ	New Jersey
+34005	34.0	5.0	Burlington	NJ	New Jersey
+34007	34.0	7.0	Camden	NJ	New Jersey
+34009	34.0	9.0	Cape May	NJ	New Jersey
+34011	34.0	11.0	Cumberland	NJ	New Jersey
+34013	34.0	13.0	Essex	NJ	New Jersey
+34015	34.0	15.0	Gloucester	NJ	New Jersey
+34017	34.0	17.0	Hudson	NJ	New Jersey
+34019	34.0	19.0	Hunterdon	NJ	New Jersey
+34021	34.0	21.0	Mercer	NJ	New Jersey
+34023	34.0	23.0	Middlesex	NJ	New Jersey
+34025	34.0	25.0	Monmouth	NJ	New Jersey
+34027	34.0	27.0	Morris	NJ	New Jersey
+34029	34.0	29.0	Ocean	NJ	New Jersey
+34031	34.0	31.0	Passaic	NJ	New Jersey
+34033	34.0	33.0	Salem	NJ	New Jersey
+34035	34.0	35.0	Somerset	NJ	New Jersey
+34037	34.0	37.0	Sussex	NJ	New Jersey
+34039	34.0	39.0	Union	NJ	New Jersey
+35001	35.0	1.0	Bernalillo	NM	New Mexico
+35003	35.0	3.0	Catron	NM	New Mexico
+35005	35.0	5.0	Chaves	NM	New Mexico
+35006	35.0	6.0	Cibola	NM	New Mexico
+35007	35.0	7.0	Colfax	NM	New Mexico
+35009	35.0	9.0	Curry	NM	New Mexico
+35011	35.0	11.0	De Baca	NM	New Mexico
+35013	35.0	13.0	Dona Ana	NM	New Mexico
+35015	35.0	15.0	Eddy	NM	New Mexico
+35017	35.0	17.0	Grant	NM	New Mexico
+35019	35.0	19.0	Guadalupe	NM	New Mexico
+35021	35.0	21.0	Harding	NM	New Mexico
+35023	35.0	23.0	Hidalgo	NM	New Mexico
+35025	35.0	25.0	Lea	NM	New Mexico
+35027	35.0	27.0	Lincoln	NM	New Mexico
+35028	35.0	28.0	Los Alamos	NM	New Mexico
+35029	35.0	29.0	Luna	NM	New Mexico
+35031	35.0	31.0	McKinley	NM	New Mexico
+35033	35.0	33.0	Mora	NM	New Mexico
+35035	35.0	35.0	Otero	NM	New Mexico
+35037	35.0	37.0	Quay	NM	New Mexico
+35039	35.0	39.0	Rio Arriba	NM	New Mexico
+35041	35.0	41.0	Roosevelt	NM	New Mexico
+35043	35.0	43.0	Sandoval	NM	New Mexico
+35045	35.0	45.0	San Juan	NM	New Mexico
+35047	35.0	47.0	San Miguel	NM	New Mexico
+35049	35.0	49.0	Santa Fe	NM	New Mexico
+35051	35.0	51.0	Sierra	NM	New Mexico
+35053	35.0	53.0	Socorro	NM	New Mexico
+35055	35.0	55.0	Taos	NM	New Mexico
+35057	35.0	57.0	Torrance	NM	New Mexico
+35059	35.0	59.0	Union	NM	New Mexico
+35061	35.0	61.0	Valencia	NM	New Mexico
+36001	36.0	1.0	Albany	NY	New York
+36003	36.0	3.0	Allegany	NY	New York
+36007	36.0	7.0	Broome	NY	New York
+36009	36.0	9.0	Cattaraugus	NY	New York
+36011	36.0	11.0	Cayuga	NY	New York
+36013	36.0	13.0	Chautauqua	NY	New York
+36015	36.0	15.0	Chemung	NY	New York
+36017	36.0	17.0	Chenango	NY	New York
+36019	36.0	19.0	Clinton	NY	New York
+36021	36.0	21.0	Columbia	NY	New York
+36023	36.0	23.0	Cortland	NY	New York
+36025	36.0	25.0	Delaware	NY	New York
+36027	36.0	27.0	Dutchess	NY	New York
+36029	36.0	29.0	Erie	NY	New York
+36031	36.0	31.0	Essex	NY	New York
+36033	36.0	33.0	Franklin	NY	New York
+36035	36.0	35.0	Fulton	NY	New York
+36037	36.0	37.0	Genesee	NY	New York
+36039	36.0	39.0	Greene	NY	New York
+36041	36.0	41.0	Hamilton	NY	New York
+36043	36.0	43.0	Herkimer	NY	New York
+36045	36.0	45.0	Jefferson	NY	New York
+36047	36.0	47.0	Kings	NY	New York
+36049	36.0	49.0	Lewis	NY	New York
+36051	36.0	51.0	Livingston	NY	New York
+36053	36.0	53.0	Madison	NY	New York
+36055	36.0	55.0	Monroe	NY	New York
+36057	36.0	57.0	Montgomery	NY	New York
+36059	36.0	59.0	Nassau	NY	New York
+36063	36.0	63.0	Niagara	NY	New York
+36065	36.0	65.0	Oneida	NY	New York
+36067	36.0	67.0	Onondaga	NY	New York
+36069	36.0	69.0	Ontario	NY	New York
+36071	36.0	71.0	Orange	NY	New York
+36073	36.0	73.0	Orleans	NY	New York
+36075	36.0	75.0	Oswego	NY	New York
+36077	36.0	77.0	Otsego	NY	New York
+36079	36.0	79.0	Putnam	NY	New York
+36081	36.0	81.0	Queens	NY	New York
+36083	36.0	83.0	Rensselaer	NY	New York
+36087	36.0	87.0	Rockland	NY	New York
+36089	36.0	89.0	St Lawrence	NY	New York
+36091	36.0	91.0	Saratoga	NY	New York
+36093	36.0	93.0	Schenectady	NY	New York
+36095	36.0	95.0	Schoharie	NY	New York
+36097	36.0	97.0	Schuyler	NY	New York
+36099	36.0	99.0	Seneca	NY	New York
+36101	36.0	101.0	Steuben	NY	New York
+36103	36.0	103.0	Suffolk	NY	New York
+36105	36.0	105.0	Sullivan	NY	New York
+36107	36.0	107.0	Tioga	NY	New York
+36109	36.0	109.0	Tompkins	NY	New York
+36111	36.0	111.0	Ulster	NY	New York
+36113	36.0	113.0	Warren	NY	New York
+36115	36.0	115.0	Washington	NY	New York
+36117	36.0	117.0	Wayne	NY	New York
+36119	36.0	119.0	Westchester	NY	New York
+36123	36.0	123.0	Yates	NY	New York
+37001	37.0	1.0	Alamance	NC	North Carolina
+37003	37.0	3.0	Alexander	NC	North Carolina
+37005	37.0	5.0	Alleghany	NC	North Carolina
+37007	37.0	7.0	Anson	NC	North Carolina
+37009	37.0	9.0	Ashe	NC	North Carolina
+37011	37.0	11.0	Avery	NC	North Carolina
+37013	37.0	13.0	Beaufort	NC	North Carolina
+37015	37.0	15.0	Bertie	NC	North Carolina
+37017	37.0	17.0	Bladen	NC	North Carolina
+37019	37.0	19.0	Brunswick	NC	North Carolina
+37021	37.0	21.0	Buncombe	NC	North Carolina
+37023	37.0	23.0	Burke	NC	North Carolina
+37025	37.0	25.0	Cabarrus	NC	North Carolina
+37027	37.0	27.0	Caldwell	NC	North Carolina
+37029	37.0	29.0	Camden	NC	North Carolina
+37031	37.0	31.0	Carteret	NC	North Carolina
+37033	37.0	33.0	Caswell	NC	North Carolina
+37035	37.0	35.0	Catawba	NC	North Carolina
+37037	37.0	37.0	Chatham	NC	North Carolina
+37039	37.0	39.0	Cherokee	NC	North Carolina
+37041	37.0	41.0	Chowan	NC	North Carolina
+37043	37.0	43.0	Clay	NC	North Carolina
+37045	37.0	45.0	Cleveland	NC	North Carolina
+37047	37.0	47.0	Columbus	NC	North Carolina
+37049	37.0	49.0	Craven	NC	North Carolina
+37051	37.0	51.0	Cumberland	NC	North Carolina
+37053	37.0	53.0	Currituck	NC	North Carolina
+37055	37.0	55.0	Dare	NC	North Carolina
+37057	37.0	57.0	Davidson	NC	North Carolina
+37059	37.0	59.0	Davie	NC	North Carolina
+37061	37.0	61.0	Duplin	NC	North Carolina
+37063	37.0	63.0	Durham	NC	North Carolina
+37065	37.0	65.0	Edgecombe	NC	North Carolina
+37067	37.0	67.0	Forsyth	NC	North Carolina
+37071	37.0	71.0	Gaston	NC	North Carolina
+37073	37.0	73.0	Gates	NC	North Carolina
+37075	37.0	75.0	Graham	NC	North Carolina
+37077	37.0	77.0	Granville	NC	North Carolina
+37079	37.0	79.0	Greene	NC	North Carolina
+37081	37.0	81.0	Guilford	NC	North Carolina
+37083	37.0	83.0	Halifax	NC	North Carolina
+37085	37.0	85.0	Harnett	NC	North Carolina
+37087	37.0	87.0	Haywood	NC	North Carolina
+37089	37.0	89.0	Henderson	NC	North Carolina
+37091	37.0	91.0	Hertford	NC	North Carolina
+37093	37.0	93.0	Hoke	NC	North Carolina
+37095	37.0	95.0	Hyde	NC	North Carolina
+37097	37.0	97.0	Iredell	NC	North Carolina
+37099	37.0	99.0	Jackson	NC	North Carolina
+37103	37.0	103.0	Jones	NC	North Carolina
+37105	37.0	105.0	Lee	NC	North Carolina
+37107	37.0	107.0	Lenoir	NC	North Carolina
+37109	37.0	109.0	Lincoln	NC	North Carolina
+37111	37.0	111.0	McDowell	NC	North Carolina
+37113	37.0	113.0	Macon	NC	North Carolina
+37115	37.0	115.0	Madison	NC	North Carolina
+37117	37.0	117.0	Martin	NC	North Carolina
+37119	37.0	119.0	Mecklenburg	NC	North Carolina
+37121	37.0	121.0	Mitchell	NC	North Carolina
+37123	37.0	123.0	Montgomery	NC	North Carolina
+37125	37.0	125.0	Moore	NC	North Carolina
+37127	37.0	127.0	Nash	NC	North Carolina
+37129	37.0	129.0	New Hanover	NC	North Carolina
+37131	37.0	131.0	Northampton	NC	North Carolina
+37133	37.0	133.0	Onslow	NC	North Carolina
+37135	37.0	135.0	Orange	NC	North Carolina
+37137	37.0	137.0	Pamlico	NC	North Carolina
+37139	37.0	139.0	Pasquotank	NC	North Carolina
+37141	37.0	141.0	Pender	NC	North Carolina
+37143	37.0	143.0	Perquimans	NC	North Carolina
+37145	37.0	145.0	Person	NC	North Carolina
+37147	37.0	147.0	Pitt	NC	North Carolina
+37149	37.0	149.0	Polk	NC	North Carolina
+37151	37.0	151.0	Randolph	NC	North Carolina
+37153	37.0	153.0	Richmond	NC	North Carolina
+37155	37.0	155.0	Robeson	NC	North Carolina
+37157	37.0	157.0	Rockingham	NC	North Carolina
+37159	37.0	159.0	Rowan	NC	North Carolina
+37161	37.0	161.0	Rutherford	NC	North Carolina
+37163	37.0	163.0	Sampson	NC	North Carolina
+37165	37.0	165.0	Scotland	NC	North Carolina
+37167	37.0	167.0	Stanly	NC	North Carolina
+37169	37.0	169.0	Stokes	NC	North Carolina
+37171	37.0	171.0	Surry	NC	North Carolina
+37173	37.0	173.0	Swain	NC	North Carolina
+37175	37.0	175.0	Transylvania	NC	North Carolina
+37177	37.0	177.0	Tyrrell	NC	North Carolina
+37179	37.0	179.0	Union	NC	North Carolina
+37181	37.0	181.0	Vance	NC	North Carolina
+37183	37.0	183.0	Wake	NC	North Carolina
+37185	37.0	185.0	Warren	NC	North Carolina
+37187	37.0	187.0	Washington	NC	North Carolina
+37189	37.0	189.0	Watauga	NC	North Carolina
+37191	37.0	191.0	Wayne	NC	North Carolina
+37193	37.0	193.0	Wilkes	NC	North Carolina
+37195	37.0	195.0	Wilson	NC	North Carolina
+37197	37.0	197.0	Yadkin	NC	North Carolina
+37199	37.0	199.0	Yancey	NC	North Carolina
+38001	38.0	1.0	Adams	ND	North Dakota
+38003	38.0	3.0	Barnes	ND	North Dakota
+38005	38.0	5.0	Benson	ND	North Dakota
+38007	38.0	7.0	Billings	ND	North Dakota
+38009	38.0	9.0	Bottineau	ND	North Dakota
+38011	38.0	11.0	Bowman	ND	North Dakota
+38013	38.0	13.0	Burke	ND	North Dakota
+38015	38.0	15.0	Burleigh	ND	North Dakota
+38017	38.0	17.0	Cass	ND	North Dakota
+38019	38.0	19.0	Cavalier	ND	North Dakota
+38021	38.0	21.0	Dickey	ND	North Dakota
+38023	38.0	23.0	Divide	ND	North Dakota
+38025	38.0	25.0	Dunn	ND	North Dakota
+38027	38.0	27.0	Eddy	ND	North Dakota
+38029	38.0	29.0	Emmons	ND	North Dakota
+38031	38.0	31.0	Foster	ND	North Dakota
+38033	38.0	33.0	Golden Valley	ND	North Dakota
+38035	38.0	35.0	Grand Forks	ND	North Dakota
+38037	38.0	37.0	Grant	ND	North Dakota
+38039	38.0	39.0	Griggs	ND	North Dakota
+38041	38.0	41.0	Hettinger	ND	North Dakota
+38043	38.0	43.0	Kidder	ND	North Dakota
+38045	38.0	45.0	La Moure	ND	North Dakota
+38047	38.0	47.0	Logan	ND	North Dakota
+38049	38.0	49.0	McHenry	ND	North Dakota
+38051	38.0	51.0	McIntosh	ND	North Dakota
+38053	38.0	53.0	McKenzie	ND	North Dakota
+38055	38.0	55.0	McLean	ND	North Dakota
+38057	38.0	57.0	Mercer	ND	North Dakota
+38059	38.0	59.0	Morton	ND	North Dakota
+38061	38.0	61.0	Mountrail	ND	North Dakota
+38063	38.0	63.0	Nelson	ND	North Dakota
+38065	38.0	65.0	Oliver	ND	North Dakota
+38067	38.0	67.0	Pembina	ND	North Dakota
+38069	38.0	69.0	Pierce	ND	North Dakota
+38071	38.0	71.0	Ramsey	ND	North Dakota
+38073	38.0	73.0	Ransom	ND	North Dakota
+38075	38.0	75.0	Renville	ND	North Dakota
+38077	38.0	77.0	Richland	ND	North Dakota
+38079	38.0	79.0	Rolette	ND	North Dakota
+38081	38.0	81.0	Sargent	ND	North Dakota
+38083	38.0	83.0	Sheridan	ND	North Dakota
+38085	38.0	85.0	Sioux	ND	North Dakota
+38087	38.0	87.0	Slope	ND	North Dakota
+38089	38.0	89.0	Stark	ND	North Dakota
+38091	38.0	91.0	Steele	ND	North Dakota
+38093	38.0	93.0	Stutsman	ND	North Dakota
+38095	38.0	95.0	Towner	ND	North Dakota
+38097	38.0	97.0	Traill	ND	North Dakota
+38099	38.0	99.0	Walsh	ND	North Dakota
+38101	38.0	101.0	Ward	ND	North Dakota
+38103	38.0	103.0	Wells	ND	North Dakota
+38105	38.0	105.0	Williams	ND	North Dakota
+39001	39.0	1.0	Adams	OH	Ohio
+39003	39.0	3.0	Allen	OH	Ohio
+39005	39.0	5.0	Ashland	OH	Ohio
+39007	39.0	7.0	Ashtabula	OH	Ohio
+39009	39.0	9.0	Athens	OH	Ohio
+39011	39.0	11.0	Auglaize	OH	Ohio
+39013	39.0	13.0	Belmont	OH	Ohio
+39015	39.0	15.0	Brown	OH	Ohio
+39017	39.0	17.0	Butler	OH	Ohio
+39019	39.0	19.0	Carroll	OH	Ohio
+39021	39.0	21.0	Champaign	OH	Ohio
+39023	39.0	23.0	Clark	OH	Ohio
+39029	39.0	29.0	Columbiana	OH	Ohio
+39031	39.0	31.0	Coshocton	OH	Ohio
+39033	39.0	33.0	Crawford	OH	Ohio
+39037	39.0	37.0	Darke	OH	Ohio
+39039	39.0	39.0	Defiance	OH	Ohio
+39041	39.0	41.0	Delaware	OH	Ohio
+39043	39.0	43.0	Erie	OH	Ohio
+39045	39.0	45.0	Fairfield	OH	Ohio
+39047	39.0	47.0	Fayette	OH	Ohio
+39051	39.0	51.0	Fulton	OH	Ohio
+39053	39.0	53.0	Gallia	OH	Ohio
+39055	39.0	55.0	Geauga	OH	Ohio
+39059	39.0	59.0	Guernsey	OH	Ohio
+39061	39.0	61.0	Hamilton	OH	Ohio
+39063	39.0	63.0	Hancock	OH	Ohio
+39065	39.0	65.0	Hardin	OH	Ohio
+39067	39.0	67.0	Harrison	OH	Ohio
+39069	39.0	69.0	Henry	OH	Ohio
+39071	39.0	71.0	Highland	OH	Ohio
+39073	39.0	73.0	Hocking	OH	Ohio
+39075	39.0	75.0	Holmes	OH	Ohio
+39077	39.0	77.0	Huron	OH	Ohio
+39079	39.0	79.0	Jackson	OH	Ohio
+39081	39.0	81.0	Jefferson	OH	Ohio
+39083	39.0	83.0	Knox	OH	Ohio
+39085	39.0	85.0	Lake	OH	Ohio
+39087	39.0	87.0	Lawrence	OH	Ohio
+39089	39.0	89.0	Licking	OH	Ohio
+39091	39.0	91.0	Logan	OH	Ohio
+39093	39.0	93.0	Lorain	OH	Ohio
+39095	39.0	95.0	Lucas	OH	Ohio
+39097	39.0	97.0	Madison	OH	Ohio
+39099	39.0	99.0	Mahoning	OH	Ohio
+39101	39.0	101.0	Marion	OH	Ohio
+39103	39.0	103.0	Medina	OH	Ohio
+39105	39.0	105.0	Meigs	OH	Ohio
+39107	39.0	107.0	Mercer	OH	Ohio
+39109	39.0	109.0	Miami	OH	Ohio
+39111	39.0	111.0	Monroe	OH	Ohio
+39115	39.0	115.0	Morgan	OH	Ohio
+39117	39.0	117.0	Morrow	OH	Ohio
+39119	39.0	119.0	Muskingum	OH	Ohio
+39121	39.0	121.0	Noble	OH	Ohio
+39123	39.0	123.0	Ottawa	OH	Ohio
+39125	39.0	125.0	Paulding	OH	Ohio
+39127	39.0	127.0	Perry	OH	Ohio
+39129	39.0	129.0	Pickaway	OH	Ohio
+39131	39.0	131.0	Pike	OH	Ohio
+39133	39.0	133.0	Portage	OH	Ohio
+39135	39.0	135.0	Preble	OH	Ohio
+39137	39.0	137.0	Putnam	OH	Ohio
+39139	39.0	139.0	Richland	OH	Ohio
+39141	39.0	141.0	Ross	OH	Ohio
+39143	39.0	143.0	Sandusky	OH	Ohio
+39145	39.0	145.0	Scioto	OH	Ohio
+39147	39.0	147.0	Seneca	OH	Ohio
+39149	39.0	149.0	Shelby	OH	Ohio
+39151	39.0	151.0	Stark	OH	Ohio
+39153	39.0	153.0	Summit	OH	Ohio
+39155	39.0	155.0	Trumbull	OH	Ohio
+39157	39.0	157.0	Tuscarawas	OH	Ohio
+39159	39.0	159.0	Union	OH	Ohio
+39161	39.0	161.0	Van Wert	OH	Ohio
+39163	39.0	163.0	Vinton	OH	Ohio
+39165	39.0	165.0	Warren	OH	Ohio
+39167	39.0	167.0	Washington	OH	Ohio
+39169	39.0	169.0	Wayne	OH	Ohio
+39171	39.0	171.0	Williams	OH	Ohio
+39173	39.0	173.0	Wood	OH	Ohio
+39175	39.0	175.0	Wyandot	OH	Ohio
+40001	40.0	1.0	Adair	OK	Oklahoma
+40003	40.0	3.0	Alfalfa	OK	Oklahoma
+40005	40.0	5.0	Atoka	OK	Oklahoma
+40007	40.0	7.0	Beaver	OK	Oklahoma
+40009	40.0	9.0	Beckham	OK	Oklahoma
+40011	40.0	11.0	Blaine	OK	Oklahoma
+40013	40.0	13.0	Bryan	OK	Oklahoma
+40015	40.0	15.0	Caddo	OK	Oklahoma
+40017	40.0	17.0	Canadian	OK	Oklahoma
+40019	40.0	19.0	Carter	OK	Oklahoma
+40021	40.0	21.0	Cherokee	OK	Oklahoma
+40023	40.0	23.0	Choctaw	OK	Oklahoma
+40025	40.0	25.0	Cimarron	OK	Oklahoma
+40027	40.0	27.0	Cleveland	OK	Oklahoma
+40029	40.0	29.0	Coal	OK	Oklahoma
+40031	40.0	31.0	Comanche	OK	Oklahoma
+40033	40.0	33.0	Cotton	OK	Oklahoma
+40035	40.0	35.0	Craig	OK	Oklahoma
+40037	40.0	37.0	Creek	OK	Oklahoma
+40039	40.0	39.0	Custer	OK	Oklahoma
+40041	40.0	41.0	Delaware	OK	Oklahoma
+40043	40.0	43.0	Dewey	OK	Oklahoma
+40045	40.0	45.0	Ellis	OK	Oklahoma
+40047	40.0	47.0	Garfield	OK	Oklahoma
+40049	40.0	49.0	Garvin	OK	Oklahoma
+40051	40.0	51.0	Grady	OK	Oklahoma
+40053	40.0	53.0	Grant	OK	Oklahoma
+40055	40.0	55.0	Greer	OK	Oklahoma
+40057	40.0	57.0	Harmon	OK	Oklahoma
+40059	40.0	59.0	Harper	OK	Oklahoma
+40061	40.0	61.0	Haskell	OK	Oklahoma
+40063	40.0	63.0	Hughes	OK	Oklahoma
+40065	40.0	65.0	Jackson	OK	Oklahoma
+40067	40.0	67.0	Jefferson	OK	Oklahoma
+40069	40.0	69.0	Johnston	OK	Oklahoma
+40071	40.0	71.0	Kay	OK	Oklahoma
+40073	40.0	73.0	Kingfisher	OK	Oklahoma
+40075	40.0	75.0	Kiowa	OK	Oklahoma
+40077	40.0	77.0	Latimer	OK	Oklahoma
+40079	40.0	79.0	Le Flore	OK	Oklahoma
+40081	40.0	81.0	Lincoln	OK	Oklahoma
+40083	40.0	83.0	Logan	OK	Oklahoma
+40085	40.0	85.0	Love	OK	Oklahoma
+40087	40.0	87.0	McClain	OK	Oklahoma
+40089	40.0	89.0	McCurtain	OK	Oklahoma
+40091	40.0	91.0	McIntosh	OK	Oklahoma
+40093	40.0	93.0	Major	OK	Oklahoma
+40095	40.0	95.0	Marshall	OK	Oklahoma
+40097	40.0	97.0	Mayes	OK	Oklahoma
+40099	40.0	99.0	Murray	OK	Oklahoma
+40101	40.0	101.0	Muskogee	OK	Oklahoma
+40103	40.0	103.0	Noble	OK	Oklahoma
+40105	40.0	105.0	Nowata	OK	Oklahoma
+40107	40.0	107.0	Okfuskee	OK	Oklahoma
+40109	40.0	109.0	Oklahoma	OK	Oklahoma
+40111	40.0	111.0	Okmulgee	OK	Oklahoma
+40113	40.0	113.0	Osage	OK	Oklahoma
+40115	40.0	115.0	Ottawa	OK	Oklahoma
+40117	40.0	117.0	Pawnee	OK	Oklahoma
+40119	40.0	119.0	Payne	OK	Oklahoma
+40121	40.0	121.0	Pittsburg	OK	Oklahoma
+40123	40.0	123.0	Pontotoc	OK	Oklahoma
+40125	40.0	125.0	Pottawatomie	OK	Oklahoma
+40127	40.0	127.0	Pushmataha	OK	Oklahoma
+40129	40.0	129.0	Roger Mills	OK	Oklahoma
+40131	40.0	131.0	Rogers	OK	Oklahoma
+40133	40.0	133.0	Seminole	OK	Oklahoma
+40135	40.0	135.0	Sequoyah	OK	Oklahoma
+40137	40.0	137.0	Stephens	OK	Oklahoma
+40139	40.0	139.0	Texas	OK	Oklahoma
+40141	40.0	141.0	Tillman	OK	Oklahoma
+40143	40.0	143.0	Tulsa	OK	Oklahoma
+40145	40.0	145.0	Wagoner	OK	Oklahoma
+40147	40.0	147.0	Washington	OK	Oklahoma
+40149	40.0	149.0	Washita	OK	Oklahoma
+40151	40.0	151.0	Woods	OK	Oklahoma
+40153	40.0	153.0	Woodward	OK	Oklahoma
+41001	41.0	1.0	Baker	OR	Oregon
+41003	41.0	3.0	Benton	OR	Oregon
+41005	41.0	5.0	Clackamas	OR	Oregon
+41007	41.0	7.0	Clatsop	OR	Oregon
+41009	41.0	9.0	Columbia	OR	Oregon
+41011	41.0	11.0	Coos	OR	Oregon
+41013	41.0	13.0	Crook	OR	Oregon
+41015	41.0	15.0	Curry	OR	Oregon
+41017	41.0	17.0	Deschutes	OR	Oregon
+41019	41.0	19.0	Douglas	OR	Oregon
+41021	41.0	21.0	Gilliam	OR	Oregon
+41023	41.0	23.0	Grant	OR	Oregon
+41025	41.0	25.0	Harney	OR	Oregon
+41027	41.0	27.0	Hood River	OR	Oregon
+41029	41.0	29.0	Jackson	OR	Oregon
+41031	41.0	31.0	Jefferson	OR	Oregon
+41033	41.0	33.0	Josephine	OR	Oregon
+41035	41.0	35.0	Klamath	OR	Oregon
+41037	41.0	37.0	Lake	OR	Oregon
+41039	41.0	39.0	Lane	OR	Oregon
+41041	41.0	41.0	Lincoln	OR	Oregon
+41043	41.0	43.0	Linn	OR	Oregon
+41045	41.0	45.0	Malheur	OR	Oregon
+41047	41.0	47.0	Marion	OR	Oregon
+41049	41.0	49.0	Morrow	OR	Oregon
+41051	41.0	51.0	Multnomah	OR	Oregon
+41053	41.0	53.0	Polk	OR	Oregon
+41055	41.0	55.0	Sherman	OR	Oregon
+41057	41.0	57.0	Tillamook	OR	Oregon
+41059	41.0	59.0	Umatilla	OR	Oregon
+41061	41.0	61.0	Union	OR	Oregon
+41063	41.0	63.0	Wallowa	OR	Oregon
+41065	41.0	65.0	Wasco	OR	Oregon
+41067	41.0	67.0	Washington	OR	Oregon
+41069	41.0	69.0	Wheeler	OR	Oregon
+41071	41.0	71.0	Yamhill	OR	Oregon
+42001	42.0	1.0	Adams	PA	Pennsylvania
+42003	42.0	3.0	Allegheny	PA	Pennsylvania
+42005	42.0	5.0	Armstrong	PA	Pennsylvania
+42007	42.0	7.0	Beaver	PA	Pennsylvania
+42009	42.0	9.0	Bedford	PA	Pennsylvania
+42011	42.0	11.0	Berks	PA	Pennsylvania
+42013	42.0	13.0	Blair	PA	Pennsylvania
+42015	42.0	15.0	Bradford	PA	Pennsylvania
+42017	42.0	17.0	Bucks	PA	Pennsylvania
+42019	42.0	19.0	Butler	PA	Pennsylvania
+42021	42.0	21.0	Cambria	PA	Pennsylvania
+42023	42.0	23.0	Cameron	PA	Pennsylvania
+42025	42.0	25.0	Carbon	PA	Pennsylvania
+42027	42.0	27.0	Centre	PA	Pennsylvania
+42029	42.0	29.0	Chester	PA	Pennsylvania
+42031	42.0	31.0	Clarion	PA	Pennsylvania
+42033	42.0	33.0	Clearfield	PA	Pennsylvania
+42035	42.0	35.0	Clinton	PA	Pennsylvania
+42039	42.0	39.0	Crawford	PA	Pennsylvania
+42041	42.0	41.0	Cumberland	PA	Pennsylvania
+42045	42.0	45.0	Delaware	PA	Pennsylvania
+42047	42.0	47.0	Elk	PA	Pennsylvania
+42049	42.0	49.0	Erie	PA	Pennsylvania
+42051	42.0	51.0	Fayette	PA	Pennsylvania
+42053	42.0	53.0	Forest	PA	Pennsylvania
+42055	42.0	55.0	Franklin	PA	Pennsylvania
+42057	42.0	57.0	Fulton	PA	Pennsylvania
+42059	42.0	59.0	Greene	PA	Pennsylvania
+42061	42.0	61.0	Huntingdon	PA	Pennsylvania
+42063	42.0	63.0	Indiana	PA	Pennsylvania
+42065	42.0	65.0	Jefferson	PA	Pennsylvania
+42067	42.0	67.0	Juniata	PA	Pennsylvania
+42069	42.0	69.0	Lackawanna	PA	Pennsylvania
+42071	42.0	71.0	Lancaster	PA	Pennsylvania
+42073	42.0	73.0	Lawrence	PA	Pennsylvania
+42075	42.0	75.0	Lebanon	PA	Pennsylvania
+42077	42.0	77.0	Lehigh	PA	Pennsylvania
+42079	42.0	79.0	Luzerne	PA	Pennsylvania
+42081	42.0	81.0	Lycoming	PA	Pennsylvania
+42083	42.0	83.0	McKean	PA	Pennsylvania
+42085	42.0	85.0	Mercer	PA	Pennsylvania
+42087	42.0	87.0	Mifflin	PA	Pennsylvania
+42089	42.0	89.0	Monroe	PA	Pennsylvania
+42091	42.0	91.0	Montgomery	PA	Pennsylvania
+42093	42.0	93.0	Montour	PA	Pennsylvania
+42095	42.0	95.0	Northampton	PA	Pennsylvania
+42097	42.0	97.0	Northumberland	PA	Pennsylvania
+42099	42.0	99.0	Perry	PA	Pennsylvania
+42103	42.0	103.0	Pike	PA	Pennsylvania
+42105	42.0	105.0	Potter	PA	Pennsylvania
+42107	42.0	107.0	Schuylkill	PA	Pennsylvania
+42109	42.0	109.0	Snyder	PA	Pennsylvania
+42111	42.0	111.0	Somerset	PA	Pennsylvania
+42113	42.0	113.0	Sullivan	PA	Pennsylvania
+42117	42.0	117.0	Tioga	PA	Pennsylvania
+42119	42.0	119.0	Union	PA	Pennsylvania
+42121	42.0	121.0	Venango	PA	Pennsylvania
+42123	42.0	123.0	Warren	PA	Pennsylvania
+42125	42.0	125.0	Washington	PA	Pennsylvania
+42127	42.0	127.0	Wayne	PA	Pennsylvania
+42129	42.0	129.0	Westmoreland	PA	Pennsylvania
+42131	42.0	131.0	Wyoming	PA	Pennsylvania
+42133	42.0	133.0	York	PA	Pennsylvania
+44001	44.0	1.0	Bristol	RI	Rhode Island
+44003	44.0	3.0	Kent	RI	Rhode Island
+44005	44.0	5.0	Newport	RI	Rhode Island
+44007	44.0	7.0	Providence	RI	Rhode Island
+44009	44.0	9.0	Washington	RI	Rhode Island
+45001	45.0	1.0	Abbeville	SC	South Carolina
+45003	45.0	3.0	Aiken	SC	South Carolina
+45005	45.0	5.0	Allendale	SC	South Carolina
+45007	45.0	7.0	Anderson	SC	South Carolina
+45009	45.0	9.0	Bamberg	SC	South Carolina
+45011	45.0	11.0	Barnwell	SC	South Carolina
+45013	45.0	13.0	Beaufort	SC	South Carolina
+45015	45.0	15.0	Berkeley	SC	South Carolina
+45017	45.0	17.0	Calhoun	SC	South Carolina
+45019	45.0	19.0	Charleston	SC	South Carolina
+45021	45.0	21.0	Cherokee	SC	South Carolina
+45025	45.0	25.0	Chesterfield	SC	South Carolina
+45027	45.0	27.0	Clarendon	SC	South Carolina
+45029	45.0	29.0	Colleton	SC	South Carolina
+45031	45.0	31.0	Darlington	SC	South Carolina
+45033	45.0	33.0	Dillon	SC	South Carolina
+45035	45.0	35.0	Dorchester	SC	South Carolina
+45037	45.0	37.0	Edgefield	SC	South Carolina
+45039	45.0	39.0	Fairfield	SC	South Carolina
+45043	45.0	43.0	Georgetown	SC	South Carolina
+45045	45.0	45.0	Greenville	SC	South Carolina
+45047	45.0	47.0	Greenwood	SC	South Carolina
+45049	45.0	49.0	Hampton	SC	South Carolina
+45051	45.0	51.0	Horry	SC	South Carolina
+45053	45.0	53.0	Jasper	SC	South Carolina
+45055	45.0	55.0	Kershaw	SC	South Carolina
+45057	45.0	57.0	Lancaster	SC	South Carolina
+45059	45.0	59.0	Laurens	SC	South Carolina
+45061	45.0	61.0	Lee	SC	South Carolina
+45063	45.0	63.0	Lexington	SC	South Carolina
+45065	45.0	65.0	McCormick	SC	South Carolina
+45067	45.0	67.0	Marion	SC	South Carolina
+45071	45.0	71.0	Newberry	SC	South Carolina
+45073	45.0	73.0	Oconee	SC	South Carolina
+45075	45.0	75.0	Orangeburg	SC	South Carolina
+45077	45.0	77.0	Pickens	SC	South Carolina
+45081	45.0	81.0	Saluda	SC	South Carolina
+45083	45.0	83.0	Spartanburg	SC	South Carolina
+45085	45.0	85.0	Sumter	SC	South Carolina
+45087	45.0	87.0	Union	SC	South Carolina
+45089	45.0	89.0	Williamsburg	SC	South Carolina
+45091	45.0	91.0	York	SC	South Carolina
+46003	46.0	3.0	Aurora	SD	South Dakota
+46005	46.0	5.0	Beadle	SD	South Dakota
+46007	46.0	7.0	Bennett	SD	South Dakota
+46009	46.0	9.0	Bon Homme	SD	South Dakota
+46011	46.0	11.0	Brookings	SD	South Dakota
+46013	46.0	13.0	Brown	SD	South Dakota
+46015	46.0	15.0	Brule	SD	South Dakota
+46017	46.0	17.0	Buffalo	SD	South Dakota
+46019	46.0	19.0	Butte	SD	South Dakota
+46021	46.0	21.0	Campbell	SD	South Dakota
+46023	46.0	23.0	Charles Mix	SD	South Dakota
+46025	46.0	25.0	Clark	SD	South Dakota
+46027	46.0	27.0	Clay	SD	South Dakota
+46029	46.0	29.0	Codington	SD	South Dakota
+46031	46.0	31.0	Corson	SD	South Dakota
+46033	46.0	33.0	Custer	SD	South Dakota
+46035	46.0	35.0	Davison	SD	South Dakota
+46037	46.0	37.0	Day	SD	South Dakota
+46039	46.0	39.0	Deuel	SD	South Dakota
+46041	46.0	41.0	Dewey	SD	South Dakota
+46043	46.0	43.0	Douglas	SD	South Dakota
+46045	46.0	45.0	Edmunds	SD	South Dakota
+46047	46.0	47.0	Fall River	SD	South Dakota
+46049	46.0	49.0	Faulk	SD	South Dakota
+46051	46.0	51.0	Grant	SD	South Dakota
+46053	46.0	53.0	Gregory	SD	South Dakota
+46055	46.0	55.0	Haakon	SD	South Dakota
+46057	46.0	57.0	Hamlin	SD	South Dakota
+46059	46.0	59.0	Hand	SD	South Dakota
+46061	46.0	61.0	Hanson	SD	South Dakota
+46063	46.0	63.0	Harding	SD	South Dakota
+46065	46.0	65.0	Hughes	SD	South Dakota
+46067	46.0	67.0	Hutchinson	SD	South Dakota
+46069	46.0	69.0	Hyde	SD	South Dakota
+46071	46.0	71.0	Jackson	SD	South Dakota
+46073	46.0	73.0	Jerauld	SD	South Dakota
+46075	46.0	75.0	Jones	SD	South Dakota
+46077	46.0	77.0	Kingsbury	SD	South Dakota
+46079	46.0	79.0	Lake	SD	South Dakota
+46081	46.0	81.0	Lawrence	SD	South Dakota
+46083	46.0	83.0	Lincoln	SD	South Dakota
+46085	46.0	85.0	Lyman	SD	South Dakota
+46087	46.0	87.0	McCook	SD	South Dakota
+46089	46.0	89.0	McPherson	SD	South Dakota
+46091	46.0	91.0	Marshall	SD	South Dakota
+46093	46.0	93.0	Meade	SD	South Dakota
+46095	46.0	95.0	Mellette	SD	South Dakota
+46097	46.0	97.0	Miner	SD	South Dakota
+46099	46.0	99.0	Minnehaha	SD	South Dakota
+46101	46.0	101.0	Moody	SD	South Dakota
+46103	46.0	103.0	Pennington	SD	South Dakota
+46105	46.0	105.0	Perkins	SD	South Dakota
+46107	46.0	107.0	Potter	SD	South Dakota
+46109	46.0	109.0	Roberts	SD	South Dakota
+46111	46.0	111.0	Sanborn	SD	South Dakota
+46113	46.0	113.0	Shannon	SD	South Dakota
+46115	46.0	115.0	Spink	SD	South Dakota
+46117	46.0	117.0	Stanley	SD	South Dakota
+46119	46.0	119.0	Sully	SD	South Dakota
+46121	46.0	121.0	Todd	SD	South Dakota
+46123	46.0	123.0	Tripp	SD	South Dakota
+46125	46.0	125.0	Turner	SD	South Dakota
+46127	46.0	127.0	Union	SD	South Dakota
+46129	46.0	129.0	Walworth	SD	South Dakota
+46135	46.0	135.0	Yankton	SD	South Dakota
+46137	46.0	137.0	Ziebach	SD	South Dakota
+47001	47.0	1.0	Anderson	TN	Tennessee
+47003	47.0	3.0	Bedford	TN	Tennessee
+47005	47.0	5.0	Benton	TN	Tennessee
+47007	47.0	7.0	Bledsoe	TN	Tennessee
+47009	47.0	9.0	Blount	TN	Tennessee
+47011	47.0	11.0	Bradley	TN	Tennessee
+47013	47.0	13.0	Campbell	TN	Tennessee
+47015	47.0	15.0	Cannon	TN	Tennessee
+47017	47.0	17.0	Carroll	TN	Tennessee
+47019	47.0	19.0	Carter	TN	Tennessee
+47021	47.0	21.0	Cheatham	TN	Tennessee
+47023	47.0	23.0	Chester	TN	Tennessee
+47025	47.0	25.0	Claiborne	TN	Tennessee
+47027	47.0	27.0	Clay	TN	Tennessee
+47029	47.0	29.0	Cocke	TN	Tennessee
+47031	47.0	31.0	Coffee	TN	Tennessee
+47033	47.0	33.0	Crockett	TN	Tennessee
+47035	47.0	35.0	Cumberland	TN	Tennessee
+47037	47.0	37.0	Davidson	TN	Tennessee
+47039	47.0	39.0	Decatur	TN	Tennessee
+47041	47.0	41.0	De Kalb	TN	Tennessee
+47043	47.0	43.0	Dickson	TN	Tennessee
+47045	47.0	45.0	Dyer	TN	Tennessee
+47047	47.0	47.0	Fayette	TN	Tennessee
+47049	47.0	49.0	Fentress	TN	Tennessee
+47051	47.0	51.0	Franklin	TN	Tennessee
+47053	47.0	53.0	Gibson	TN	Tennessee
+47055	47.0	55.0	Giles	TN	Tennessee
+47057	47.0	57.0	Grainger	TN	Tennessee
+47059	47.0	59.0	Greene	TN	Tennessee
+47061	47.0	61.0	Grundy	TN	Tennessee
+47063	47.0	63.0	Hamblen	TN	Tennessee
+47065	47.0	65.0	Hamilton	TN	Tennessee
+47067	47.0	67.0	Hancock	TN	Tennessee
+47069	47.0	69.0	Hardeman	TN	Tennessee
+47071	47.0	71.0	Hardin	TN	Tennessee
+47075	47.0	75.0	Haywood	TN	Tennessee
+47077	47.0	77.0	Henderson	TN	Tennessee
+47079	47.0	79.0	Henry	TN	Tennessee
+47081	47.0	81.0	Hickman	TN	Tennessee
+47083	47.0	83.0	Houston	TN	Tennessee
+47085	47.0	85.0	Humphreys	TN	Tennessee
+47087	47.0	87.0	Jackson	TN	Tennessee
+47089	47.0	89.0	Jefferson	TN	Tennessee
+47091	47.0	91.0	Johnson	TN	Tennessee
+47093	47.0	93.0	Knox	TN	Tennessee
+47095	47.0	95.0	Lake	TN	Tennessee
+47097	47.0	97.0	Lauderdale	TN	Tennessee
+47099	47.0	99.0	Lawrence	TN	Tennessee
+47101	47.0	101.0	Lewis	TN	Tennessee
+47103	47.0	103.0	Lincoln	TN	Tennessee
+47105	47.0	105.0	Loudon	TN	Tennessee
+47107	47.0	107.0	McMinn	TN	Tennessee
+47109	47.0	109.0	McNairy	TN	Tennessee
+47111	47.0	111.0	Macon	TN	Tennessee
+47113	47.0	113.0	Madison	TN	Tennessee
+47115	47.0	115.0	Marion	TN	Tennessee
+47117	47.0	117.0	Marshall	TN	Tennessee
+47119	47.0	119.0	Maury	TN	Tennessee
+47121	47.0	121.0	Meigs	TN	Tennessee
+47123	47.0	123.0	Monroe	TN	Tennessee
+47125	47.0	125.0	Montgomery	TN	Tennessee
+47127	47.0	127.0	Moore	TN	Tennessee
+47129	47.0	129.0	Morgan	TN	Tennessee
+47131	47.0	131.0	Obion	TN	Tennessee
+47133	47.0	133.0	Overton	TN	Tennessee
+47135	47.0	135.0	Perry	TN	Tennessee
+47137	47.0	137.0	Pickett	TN	Tennessee
+47139	47.0	139.0	Polk	TN	Tennessee
+47141	47.0	141.0	Putnam	TN	Tennessee
+47143	47.0	143.0	Rhea	TN	Tennessee
+47145	47.0	145.0	Roane	TN	Tennessee
+47147	47.0	147.0	Robertson	TN	Tennessee
+47149	47.0	149.0	Rutherford	TN	Tennessee
+47151	47.0	151.0	Scott	TN	Tennessee
+47153	47.0	153.0	Sequatchie	TN	Tennessee
+47155	47.0	155.0	Sevier	TN	Tennessee
+47157	47.0	157.0	Shelby	TN	Tennessee
+47159	47.0	159.0	Smith	TN	Tennessee
+47161	47.0	161.0	Stewart	TN	Tennessee
+47163	47.0	163.0	Sullivan	TN	Tennessee
+47165	47.0	165.0	Sumner	TN	Tennessee
+47167	47.0	167.0	Tipton	TN	Tennessee
+47169	47.0	169.0	Trousdale	TN	Tennessee
+47171	47.0	171.0	Unicoi	TN	Tennessee
+47173	47.0	173.0	Union	TN	Tennessee
+47175	47.0	175.0	Van Buren	TN	Tennessee
+47177	47.0	177.0	Warren	TN	Tennessee
+47179	47.0	179.0	Washington	TN	Tennessee
+47181	47.0	181.0	Wayne	TN	Tennessee
+47183	47.0	183.0	Weakley	TN	Tennessee
+47185	47.0	185.0	White	TN	Tennessee
+47187	47.0	187.0	Williamson	TN	Tennessee
+47189	47.0	189.0	Wilson	TN	Tennessee
+48001	48.0	1.0	Anderson	TX	Texas
+48003	48.0	3.0	Andrews	TX	Texas
+48005	48.0	5.0	Angelina	TX	Texas
+48007	48.0	7.0	Aransas	TX	Texas
+48009	48.0	9.0	Archer	TX	Texas
+48011	48.0	11.0	Armstrong	TX	Texas
+48013	48.0	13.0	Atascosa	TX	Texas
+48015	48.0	15.0	Austin	TX	Texas
+48017	48.0	17.0	Bailey	TX	Texas
+48019	48.0	19.0	Bandera	TX	Texas
+48021	48.0	21.0	Bastrop	TX	Texas
+48023	48.0	23.0	Baylor	TX	Texas
+48025	48.0	25.0	Bee	TX	Texas
+48027	48.0	27.0	Bell	TX	Texas
+48029	48.0	29.0	Bexar	TX	Texas
+48031	48.0	31.0	Blanco	TX	Texas
+48033	48.0	33.0	Borden	TX	Texas
+48035	48.0	35.0	Bosque	TX	Texas
+48037	48.0	37.0	Bowie	TX	Texas
+48039	48.0	39.0	Brazoria	TX	Texas
+48041	48.0	41.0	Brazos	TX	Texas
+48043	48.0	43.0	Brewster	TX	Texas
+48045	48.0	45.0	Briscoe	TX	Texas
+48047	48.0	47.0	Brooks	TX	Texas
+48049	48.0	49.0	Brown	TX	Texas
+48051	48.0	51.0	Burleson	TX	Texas
+48053	48.0	53.0	Burnet	TX	Texas
+48055	48.0	55.0	Caldwell	TX	Texas
+48057	48.0	57.0	Calhoun	TX	Texas
+48059	48.0	59.0	Callahan	TX	Texas
+48061	48.0	61.0	Cameron	TX	Texas
+48063	48.0	63.0	Camp	TX	Texas
+48065	48.0	65.0	Carson	TX	Texas
+48067	48.0	67.0	Cass	TX	Texas
+48069	48.0	69.0	Castro	TX	Texas
+48071	48.0	71.0	Chambers	TX	Texas
+48073	48.0	73.0	Cherokee	TX	Texas
+48075	48.0	75.0	Childress	TX	Texas
+48077	48.0	77.0	Clay	TX	Texas
+48079	48.0	79.0	Cochran	TX	Texas
+48081	48.0	81.0	Coke	TX	Texas
+48083	48.0	83.0	Coleman	TX	Texas
+48085	48.0	85.0	Collin	TX	Texas
+48087	48.0	87.0	Collingsworth	TX	Texas
+48089	48.0	89.0	Colorado	TX	Texas
+48091	48.0	91.0	Comal	TX	Texas
+48093	48.0	93.0	Comanche	TX	Texas
+48095	48.0	95.0	Concho	TX	Texas
+48097	48.0	97.0	Cooke	TX	Texas
+48099	48.0	99.0	Coryell	TX	Texas
+48101	48.0	101.0	Cottle	TX	Texas
+48103	48.0	103.0	Crane	TX	Texas
+48105	48.0	105.0	Crockett	TX	Texas
+48107	48.0	107.0	Crosby	TX	Texas
+48109	48.0	109.0	Culberson	TX	Texas
+48111	48.0	111.0	Dallam	TX	Texas
+48113	48.0	113.0	Dallas	TX	Texas
+48115	48.0	115.0	Dawson	TX	Texas
+48117	48.0	117.0	Deaf Smith	TX	Texas
+48119	48.0	119.0	Delta	TX	Texas
+48121	48.0	121.0	Denton	TX	Texas
+48123	48.0	123.0	De Witt	TX	Texas
+48125	48.0	125.0	Dickens	TX	Texas
+48127	48.0	127.0	Dimmit	TX	Texas
+48129	48.0	129.0	Donley	TX	Texas
+48131	48.0	131.0	Duval	TX	Texas
+48133	48.0	133.0	Eastland	TX	Texas
+48135	48.0	135.0	Ector	TX	Texas
+48137	48.0	137.0	Edwards	TX	Texas
+48139	48.0	139.0	Ellis	TX	Texas
+48141	48.0	141.0	El Paso	TX	Texas
+48143	48.0	143.0	Erath	TX	Texas
+48145	48.0	145.0	Falls	TX	Texas
+48147	48.0	147.0	Fannin	TX	Texas
+48149	48.0	149.0	Fayette	TX	Texas
+48151	48.0	151.0	Fisher	TX	Texas
+48153	48.0	153.0	Floyd	TX	Texas
+48155	48.0	155.0	Foard	TX	Texas
+48157	48.0	157.0	Fort Bend	TX	Texas
+48159	48.0	159.0	Franklin	TX	Texas
+48161	48.0	161.0	Freestone	TX	Texas
+48163	48.0	163.0	Frio	TX	Texas
+48165	48.0	165.0	Gaines	TX	Texas
+48167	48.0	167.0	Galveston	TX	Texas
+48169	48.0	169.0	Garza	TX	Texas
+48171	48.0	171.0	Gillespie	TX	Texas
+48173	48.0	173.0	Glasscock	TX	Texas
+48175	48.0	175.0	Goliad	TX	Texas
+48177	48.0	177.0	Gonzales	TX	Texas
+48179	48.0	179.0	Gray	TX	Texas
+48181	48.0	181.0	Grayson	TX	Texas
+48183	48.0	183.0	Gregg	TX	Texas
+48185	48.0	185.0	Grimes	TX	Texas
+48187	48.0	187.0	Guadalupe	TX	Texas
+48189	48.0	189.0	Hale	TX	Texas
+48191	48.0	191.0	Hall	TX	Texas
+48193	48.0	193.0	Hamilton	TX	Texas
+48195	48.0	195.0	Hansford	TX	Texas
+48197	48.0	197.0	Hardeman	TX	Texas
+48199	48.0	199.0	Hardin	TX	Texas
+48201	48.0	201.0	Harris	TX	Texas
+48203	48.0	203.0	Harrison	TX	Texas
+48205	48.0	205.0	Hartley	TX	Texas
+48207	48.0	207.0	Haskell	TX	Texas
+48209	48.0	209.0	Hays	TX	Texas
+48211	48.0	211.0	Hemphill	TX	Texas
+48213	48.0	213.0	Henderson	TX	Texas
+48215	48.0	215.0	Hidalgo	TX	Texas
+48217	48.0	217.0	Hill	TX	Texas
+48219	48.0	219.0	Hockley	TX	Texas
+48221	48.0	221.0	Hood	TX	Texas
+48223	48.0	223.0	Hopkins	TX	Texas
+48225	48.0	225.0	Houston	TX	Texas
+48227	48.0	227.0	Howard	TX	Texas
+48229	48.0	229.0	Hudspeth	TX	Texas
+48231	48.0	231.0	Hunt	TX	Texas
+48233	48.0	233.0	Hutchinson	TX	Texas
+48235	48.0	235.0	Irion	TX	Texas
+48237	48.0	237.0	Jack	TX	Texas
+48239	48.0	239.0	Jackson	TX	Texas
+48241	48.0	241.0	Jasper	TX	Texas
+48243	48.0	243.0	Jeff Davis	TX	Texas
+48245	48.0	245.0	Jefferson	TX	Texas
+48247	48.0	247.0	Jim Hogg	TX	Texas
+48249	48.0	249.0	Jim Wells	TX	Texas
+48251	48.0	251.0	Johnson	TX	Texas
+48253	48.0	253.0	Jones	TX	Texas
+48255	48.0	255.0	Karnes	TX	Texas
+48257	48.0	257.0	Kaufman	TX	Texas
+48259	48.0	259.0	Kendall	TX	Texas
+48261	48.0	261.0	Kenedy	TX	Texas
+48263	48.0	263.0	Kent	TX	Texas
+48265	48.0	265.0	Kerr	TX	Texas
+48267	48.0	267.0	Kimble	TX	Texas
+48269	48.0	269.0	King	TX	Texas
+48271	48.0	271.0	Kinney	TX	Texas
+48273	48.0	273.0	Kleberg	TX	Texas
+48275	48.0	275.0	Knox	TX	Texas
+48277	48.0	277.0	Lamar	TX	Texas
+48279	48.0	279.0	Lamb	TX	Texas
+48281	48.0	281.0	Lampasas	TX	Texas
+48283	48.0	283.0	La Salle	TX	Texas
+48285	48.0	285.0	Lavaca	TX	Texas
+48287	48.0	287.0	Lee	TX	Texas
+48289	48.0	289.0	Leon	TX	Texas
+48291	48.0	291.0	Liberty	TX	Texas
+48293	48.0	293.0	Limestone	TX	Texas
+48295	48.0	295.0	Lipscomb	TX	Texas
+48297	48.0	297.0	Live Oak	TX	Texas
+48299	48.0	299.0	Llano	TX	Texas
+48301	48.0	301.0	Loving	TX	Texas
+48303	48.0	303.0	Lubbock	TX	Texas
+48305	48.0	305.0	Lynn	TX	Texas
+48307	48.0	307.0	McCulloch	TX	Texas
+48309	48.0	309.0	McLennan	TX	Texas
+48311	48.0	311.0	McMullen	TX	Texas
+48313	48.0	313.0	Madison	TX	Texas
+48315	48.0	315.0	Marion	TX	Texas
+48317	48.0	317.0	Martin	TX	Texas
+48319	48.0	319.0	Mason	TX	Texas
+48321	48.0	321.0	Matagorda	TX	Texas
+48323	48.0	323.0	Maverick	TX	Texas
+48325	48.0	325.0	Medina	TX	Texas
+48327	48.0	327.0	Menard	TX	Texas
+48329	48.0	329.0	Midland	TX	Texas
+48331	48.0	331.0	Milam	TX	Texas
+48333	48.0	333.0	Mills	TX	Texas
+48335	48.0	335.0	Mitchell	TX	Texas
+48337	48.0	337.0	Montague	TX	Texas
+48339	48.0	339.0	Montgomery	TX	Texas
+48341	48.0	341.0	Moore	TX	Texas
+48343	48.0	343.0	Morris	TX	Texas
+48345	48.0	345.0	Motley	TX	Texas
+48347	48.0	347.0	Nacogdoches	TX	Texas
+48349	48.0	349.0	Navarro	TX	Texas
+48351	48.0	351.0	Newton	TX	Texas
+48353	48.0	353.0	Nolan	TX	Texas
+48355	48.0	355.0	Nueces	TX	Texas
+48357	48.0	357.0	Ochiltree	TX	Texas
+48359	48.0	359.0	Oldham	TX	Texas
+48361	48.0	361.0	Orange	TX	Texas
+48363	48.0	363.0	Palo Pinto	TX	Texas
+48365	48.0	365.0	Panola	TX	Texas
+48367	48.0	367.0	Parker	TX	Texas
+48369	48.0	369.0	Parmer	TX	Texas
+48371	48.0	371.0	Pecos	TX	Texas
+48373	48.0	373.0	Polk	TX	Texas
+48375	48.0	375.0	Potter	TX	Texas
+48377	48.0	377.0	Presidio	TX	Texas
+48379	48.0	379.0	Rains	TX	Texas
+48381	48.0	381.0	Randall	TX	Texas
+48383	48.0	383.0	Reagan	TX	Texas
+48385	48.0	385.0	Real	TX	Texas
+48387	48.0	387.0	Red River	TX	Texas
+48389	48.0	389.0	Reeves	TX	Texas
+48391	48.0	391.0	Refugio	TX	Texas
+48393	48.0	393.0	Roberts	TX	Texas
+48395	48.0	395.0	Robertson	TX	Texas
+48397	48.0	397.0	Rockwall	TX	Texas
+48399	48.0	399.0	Runnels	TX	Texas
+48401	48.0	401.0	Rusk	TX	Texas
+48403	48.0	403.0	Sabine	TX	Texas
+48405	48.0	405.0	San Augustine	TX	Texas
+48407	48.0	407.0	San Jacinto	TX	Texas
+48409	48.0	409.0	San Patricio	TX	Texas
+48411	48.0	411.0	San Saba	TX	Texas
+48413	48.0	413.0	Schleicher	TX	Texas
+48415	48.0	415.0	Scurry	TX	Texas
+48417	48.0	417.0	Shackelford	TX	Texas
+48419	48.0	419.0	Shelby	TX	Texas
+48421	48.0	421.0	Sherman	TX	Texas
+48423	48.0	423.0	Smith	TX	Texas
+48425	48.0	425.0	Somervell	TX	Texas
+48427	48.0	427.0	Starr	TX	Texas
+48429	48.0	429.0	Stephens	TX	Texas
+48431	48.0	431.0	Sterling	TX	Texas
+48433	48.0	433.0	Stonewall	TX	Texas
+48435	48.0	435.0	Sutton	TX	Texas
+48437	48.0	437.0	Swisher	TX	Texas
+48439	48.0	439.0	Tarrant	TX	Texas
+48443	48.0	443.0	Terrell	TX	Texas
+48445	48.0	445.0	Terry	TX	Texas
+48447	48.0	447.0	Throckmorton	TX	Texas
+48449	48.0	449.0	Titus	TX	Texas
+48451	48.0	451.0	Tom Green	TX	Texas
+48453	48.0	453.0	Travis	TX	Texas
+48455	48.0	455.0	Trinity	TX	Texas
+48457	48.0	457.0	Tyler	TX	Texas
+48459	48.0	459.0	Upshur	TX	Texas
+48461	48.0	461.0	Upton	TX	Texas
+48463	48.0	463.0	Uvalde	TX	Texas
+48465	48.0	465.0	Val Verde	TX	Texas
+48467	48.0	467.0	Van Zandt	TX	Texas
+48469	48.0	469.0	Victoria	TX	Texas
+48471	48.0	471.0	Walker	TX	Texas
+48473	48.0	473.0	Waller	TX	Texas
+48475	48.0	475.0	Ward	TX	Texas
+48477	48.0	477.0	Washington	TX	Texas
+48479	48.0	479.0	Webb	TX	Texas
+48481	48.0	481.0	Wharton	TX	Texas
+48483	48.0	483.0	Wheeler	TX	Texas
+48485	48.0	485.0	Wichita	TX	Texas
+48487	48.0	487.0	Wilbarger	TX	Texas
+48489	48.0	489.0	Willacy	TX	Texas
+48491	48.0	491.0	Williamson	TX	Texas
+48493	48.0	493.0	Wilson	TX	Texas
+48495	48.0	495.0	Winkler	TX	Texas
+48497	48.0	497.0	Wise	TX	Texas
+48499	48.0	499.0	Wood	TX	Texas
+48501	48.0	501.0	Yoakum	TX	Texas
+48503	48.0	503.0	Young	TX	Texas
+48505	48.0	505.0	Zapata	TX	Texas
+48507	48.0	507.0	Zavala	TX	Texas
+49001	49.0	1.0	Beaver	UT	Utah
+49003	49.0	3.0	Box Elder	UT	Utah
+49007	49.0	7.0	Carbon	UT	Utah
+49009	49.0	9.0	Daggett	UT	Utah
+49011	49.0	11.0	Davis	UT	Utah
+49013	49.0	13.0	Duchesne	UT	Utah
+49015	49.0	15.0	Emery	UT	Utah
+49017	49.0	17.0	Garfield	UT	Utah
+49019	49.0	19.0	Grand	UT	Utah
+49021	49.0	21.0	Iron	UT	Utah
+49023	49.0	23.0	Juab	UT	Utah
+49025	49.0	25.0	Kane	UT	Utah
+49027	49.0	27.0	Millard	UT	Utah
+49029	49.0	29.0	Morgan	UT	Utah
+49031	49.0	31.0	Piute	UT	Utah
+49033	49.0	33.0	Rich	UT	Utah
+49037	49.0	37.0	San Juan	UT	Utah
+49039	49.0	39.0	Sanpete	UT	Utah
+49041	49.0	41.0	Sevier	UT	Utah
+49043	49.0	43.0	Summit	UT	Utah
+49045	49.0	45.0	Tooele	UT	Utah
+49047	49.0	47.0	Uintah	UT	Utah
+49049	49.0	49.0	Utah	UT	Utah
+49051	49.0	51.0	Wasatch	UT	Utah
+49053	49.0	53.0	Washington	UT	Utah
+49055	49.0	55.0	Wayne	UT	Utah
+49057	49.0	57.0	Weber	UT	Utah
+50001	50.0	1.0	Addison	VT	Vermont
+50003	50.0	3.0	Bennington	VT	Vermont
+50005	50.0	5.0	Caledonia	VT	Vermont
+50007	50.0	7.0	Chittenden	VT	Vermont
+50009	50.0	9.0	Essex	VT	Vermont
+50011	50.0	11.0	Franklin	VT	Vermont
+50013	50.0	13.0	Grand Isle	VT	Vermont
+50015	50.0	15.0	Lamoille	VT	Vermont
+50017	50.0	17.0	Orange	VT	Vermont
+50019	50.0	19.0	Orleans	VT	Vermont
+50021	50.0	21.0	Rutland	VT	Vermont
+50023	50.0	23.0	Washington	VT	Vermont
+50025	50.0	25.0	Windham	VT	Vermont
+51001	51.0	1.0	Accomack	VA	Virginia
+51003	51.0	3.0	Albemarle	VA	Virginia
+51005	51.0	5.0	Alleghany	VA	Virginia
+51007	51.0	7.0	Amelia	VA	Virginia
+51011	51.0	11.0	Appomattox	VA	Virginia
+51015	51.0	15.0	Augusta	VA	Virginia
+51017	51.0	17.0	Bath	VA	Virginia
+51019	51.0	19.0	Bedford	VA	Virginia
+51021	51.0	21.0	Bland	VA	Virginia
+51023	51.0	23.0	Botetourt	VA	Virginia
+51025	51.0	25.0	Brunswick	VA	Virginia
+51027	51.0	27.0	Buchanan	VA	Virginia
+51029	51.0	29.0	Buckingham	VA	Virginia
+51031	51.0	31.0	Campbell	VA	Virginia
+51033	51.0	33.0	Caroline	VA	Virginia
+51035	51.0	35.0	Carroll	VA	Virginia
+51036	51.0	36.0	Charles City	VA	Virginia
+51037	51.0	37.0	Charlotte	VA	Virginia
+51043	51.0	43.0	Clarke	VA	Virginia
+51045	51.0	45.0	Craig	VA	Virginia
+51047	51.0	47.0	Culpeper	VA	Virginia
+51049	51.0	49.0	Cumberland	VA	Virginia
+51051	51.0	51.0	Dickenson	VA	Virginia
+51053	51.0	53.0	Dinwiddie	VA	Virginia
+51057	51.0	57.0	Essex	VA	Virginia
+51059	51.0	59.0	Fairfax	VA	Virginia
+51061	51.0	61.0	Fauquier	VA	Virginia
+51063	51.0	63.0	Floyd	VA	Virginia
+51065	51.0	65.0	Fluvanna	VA	Virginia
+51067	51.0	67.0	Franklin	VA	Virginia
+51069	51.0	69.0	Frederick	VA	Virginia
+51071	51.0	71.0	Giles	VA	Virginia
+51073	51.0	73.0	Gloucester	VA	Virginia
+51075	51.0	75.0	Goochland	VA	Virginia
+51077	51.0	77.0	Grayson	VA	Virginia
+51079	51.0	79.0	Greene	VA	Virginia
+51081	51.0	81.0	Greensville	VA	Virginia
+51083	51.0	83.0	Halifax	VA	Virginia
+51085	51.0	85.0	Hanover	VA	Virginia
+51089	51.0	89.0	Henry	VA	Virginia
+51091	51.0	91.0	Highland	VA	Virginia
+51093	51.0	93.0	Isle of Wight	VA	Virginia
+51095	51.0	95.0	James City	VA	Virginia
+51097	51.0	97.0	King and Queen	VA	Virginia
+51099	51.0	99.0	King George	VA	Virginia
+51101	51.0	101.0	King William	VA	Virginia
+51103	51.0	103.0	Lancaster	VA	Virginia
+51105	51.0	105.0	Lee	VA	Virginia
+51107	51.0	107.0	Loudoun	VA	Virginia
+51109	51.0	109.0	Louisa	VA	Virginia
+51111	51.0	111.0	Lunenburg	VA	Virginia
+51113	51.0	113.0	Madison	VA	Virginia
+51115	51.0	115.0	Mathews	VA	Virginia
+51117	51.0	117.0	Mecklenburg	VA	Virginia
+51119	51.0	119.0	Middlesex	VA	Virginia
+51121	51.0	121.0	Montgomery	VA	Virginia
+51125	51.0	125.0	Nelson	VA	Virginia
+51131	51.0	131.0	Northampton	VA	Virginia
+51133	51.0	133.0	Northumberland	VA	Virginia
+51135	51.0	135.0	Nottoway	VA	Virginia
+51137	51.0	137.0	Orange	VA	Virginia
+51139	51.0	139.0	Page	VA	Virginia
+51141	51.0	141.0	Patrick	VA	Virginia
+51143	51.0	143.0	Pittsylvania	VA	Virginia
+51145	51.0	145.0	Powhatan	VA	Virginia
+51147	51.0	147.0	Prince Edward	VA	Virginia
+51149	51.0	149.0	Prince George	VA	Virginia
+51153	51.0	153.0	Prince William	VA	Virginia
+51155	51.0	155.0	Pulaski	VA	Virginia
+51157	51.0	157.0	Rappahannock	VA	Virginia
+51159	51.0	159.0	Richmond	VA	Virginia
+51161	51.0	161.0	Roanoke	VA	Virginia
+51163	51.0	163.0	Rockbridge	VA	Virginia
+51165	51.0	165.0	Rockingham	VA	Virginia
+51167	51.0	167.0	Russell	VA	Virginia
+51169	51.0	169.0	Scott	VA	Virginia
+51171	51.0	171.0	Shenandoah	VA	Virginia
+51173	51.0	173.0	Smyth	VA	Virginia
+51175	51.0	175.0	Southampton	VA	Virginia
+51177	51.0	177.0	Spotsylvania	VA	Virginia
+51179	51.0	179.0	Stafford	VA	Virginia
+51181	51.0	181.0	Surry	VA	Virginia
+51183	51.0	183.0	Sussex	VA	Virginia
+51185	51.0	185.0	Tazewell	VA	Virginia
+51187	51.0	187.0	Warren	VA	Virginia
+51191	51.0	191.0	Washington	VA	Virginia
+51193	51.0	193.0	Westmoreland	VA	Virginia
+51195	51.0	195.0	Wise	VA	Virginia
+51199	51.0	199.0	York	VA	Virginia
+51510	51.0	510.0	Alexandria City	VA	Virginia
+51520	51.0	520.0	Bristol City	VA	Virginia
+51530	51.0	530.0	Buena Vista City	VA	Virginia
+51540	51.0	540.0	Charlottesville City	VA	Virginia
+51550	51.0	550.0	Chesapeake City	VA	Virginia
+51570	51.0	570.0	Colonial Heights Cit	VA	Virginia
+51580	51.0	580.0	Covington City	VA	Virginia
+51590	51.0	590.0	Danville City	VA	Virginia
+51600	51.0	600.0	Fairfax City	VA	Virginia
+51610	51.0	610.0	Falls Church City	VA	Virginia
+51620	51.0	620.0	Franklin City	VA	Virginia
+51630	51.0	630.0	Fredericksburg City	VA	Virginia
+51640	51.0	640.0	Galax City	VA	Virginia
+51650	51.0	650.0	Hampton City	VA	Virginia
+51660	51.0	660.0	Harrisonburg City	VA	Virginia
+51670	51.0	670.0	Hopewell City	VA	Virginia
+51678	51.0	678.0	Lexington City	VA	Virginia
+51680	51.0	680.0	Lynchburg City	VA	Virginia
+51683	51.0	683.0	Manassas City	VA	Virginia
+51685	51.0	685.0	Manassas Park City	VA	Virginia
+51690	51.0	690.0	Martinsville City	VA	Virginia
+51700	51.0	700.0	Newport News City	VA	Virginia
+51710	51.0	710.0	Norfolk City	VA	Virginia
+51720	51.0	720.0	Norton City	VA	Virginia
+51730	51.0	730.0	Petersburg City	VA	Virginia
+51735	51.0	735.0	Poquoson City	VA	Virginia
+51740	51.0	740.0	Portsmouth City	VA	Virginia
+51750	51.0	750.0	Radford City	VA	Virginia
+51770	51.0	770.0	Roanoke City	VA	Virginia
+51775	51.0	775.0	Salem City	VA	Virginia
+51790	51.0	790.0	Staunton City	VA	Virginia
+51800	51.0	800.0	Suffolk City	VA	Virginia
+51810	51.0	810.0	Virginia Beach City	VA	Virginia
+51820	51.0	820.0	Waynesboro City	VA	Virginia
+51830	51.0	830.0	Williamsburg City	VA	Virginia
+51840	51.0	840.0	Winchester City	VA	Virginia
+53001	53.0	1.0	Adams	WA	Washington
+53003	53.0	3.0	Asotin	WA	Washington
+53007	53.0	7.0	Chelan	WA	Washington
+53009	53.0	9.0	Clallam	WA	Washington
+53011	53.0	11.0	Clark	WA	Washington
+53013	53.0	13.0	Columbia	WA	Washington
+53015	53.0	15.0	Cowlitz	WA	Washington
+53017	53.0	17.0	Douglas	WA	Washington
+53019	53.0	19.0	Ferry	WA	Washington
+53021	53.0	21.0	Franklin	WA	Washington
+53023	53.0	23.0	Garfield	WA	Washington
+53025	53.0	25.0	Grant	WA	Washington
+53027	53.0	27.0	Grays Harbor	WA	Washington
+53029	53.0	29.0	Island	WA	Washington
+53031	53.0	31.0	Jefferson	WA	Washington
+53033	53.0	33.0	King	WA	Washington
+53039	53.0	39.0	Klickitat	WA	Washington
+53041	53.0	41.0	Lewis	WA	Washington
+53043	53.0	43.0	Lincoln	WA	Washington
+53045	53.0	45.0	Mason	WA	Washington
+53047	53.0	47.0	Okanogan	WA	Washington
+53049	53.0	49.0	Pacific	WA	Washington
+53051	53.0	51.0	Pend Oreille	WA	Washington
+53055	53.0	55.0	San Juan	WA	Washington
+53057	53.0	57.0	Skagit	WA	Washington
+53059	53.0	59.0	Skamania	WA	Washington
+53061	53.0	61.0	Snohomish	WA	Washington
+53063	53.0	63.0	Spokane	WA	Washington
+53065	53.0	65.0	Stevens	WA	Washington
+53067	53.0	67.0	Thurston	WA	Washington
+53069	53.0	69.0	Wahkiakum	WA	Washington
+53071	53.0	71.0	Walla Walla	WA	Washington
+53075	53.0	75.0	Whitman	WA	Washington
+53077	53.0	77.0	Yakima	WA	Washington
+54001	54.0	1.0	Barbour	WV	West Virginia
+54003	54.0	3.0	Berkeley	WV	West Virginia
+54005	54.0	5.0	Boone	WV	West Virginia
+54007	54.0	7.0	Braxton	WV	West Virginia
+54009	54.0	9.0	Brooke	WV	West Virginia
+54011	54.0	11.0	Cabell	WV	West Virginia
+54013	54.0	13.0	Calhoun	WV	West Virginia
+54015	54.0	15.0	Clay	WV	West Virginia
+54017	54.0	17.0	Doddridge	WV	West Virginia
+54019	54.0	19.0	Fayette	WV	West Virginia
+54021	54.0	21.0	Gilmer	WV	West Virginia
+54023	54.0	23.0	Grant	WV	West Virginia
+54025	54.0	25.0	Greenbrier	WV	West Virginia
+54027	54.0	27.0	Hampshire	WV	West Virginia
+54029	54.0	29.0	Hancock	WV	West Virginia
+54031	54.0	31.0	Hardy	WV	West Virginia
+54033	54.0	33.0	Harrison	WV	West Virginia
+54035	54.0	35.0	Jackson	WV	West Virginia
+54037	54.0	37.0	Jefferson	WV	West Virginia
+54039	54.0	39.0	Kanawha	WV	West Virginia
+54041	54.0	41.0	Lewis	WV	West Virginia
+54043	54.0	43.0	Lincoln	WV	West Virginia
+54045	54.0	45.0	Logan	WV	West Virginia
+54047	54.0	47.0	McDowell	WV	West Virginia
+54049	54.0	49.0	Marion	WV	West Virginia
+54051	54.0	51.0	Marshall	WV	West Virginia
+54053	54.0	53.0	Mason	WV	West Virginia
+54057	54.0	57.0	Mineral	WV	West Virginia
+54059	54.0	59.0	Mingo	WV	West Virginia
+54061	54.0	61.0	Monongalia	WV	West Virginia
+54063	54.0	63.0	Monroe	WV	West Virginia
+54065	54.0	65.0	Morgan	WV	West Virginia
+54067	54.0	67.0	Nicholas	WV	West Virginia
+54069	54.0	69.0	Ohio	WV	West Virginia
+54071	54.0	71.0	Pendleton	WV	West Virginia
+54073	54.0	73.0	Pleasants	WV	West Virginia
+54075	54.0	75.0	Pocahontas	WV	West Virginia
+54077	54.0	77.0	Preston	WV	West Virginia
+54079	54.0	79.0	Putnam	WV	West Virginia
+54081	54.0	81.0	Raleigh	WV	West Virginia
+54083	54.0	83.0	Randolph	WV	West Virginia
+54085	54.0	85.0	Ritchie	WV	West Virginia
+54087	54.0	87.0	Roane	WV	West Virginia
+54089	54.0	89.0	Summers	WV	West Virginia
+54091	54.0	91.0	Taylor	WV	West Virginia
+54093	54.0	93.0	Tucker	WV	West Virginia
+54095	54.0	95.0	Tyler	WV	West Virginia
+54097	54.0	97.0	Upshur	WV	West Virginia
+54099	54.0	99.0	Wayne	WV	West Virginia
+54101	54.0	101.0	Webster	WV	West Virginia
+54103	54.0	103.0	Wetzel	WV	West Virginia
+54105	54.0	105.0	Wirt	WV	West Virginia
+54107	54.0	107.0	Wood	WV	West Virginia
+54109	54.0	109.0	Wyoming	WV	West Virginia
+55001	55.0	1.0	Adams	WI	Wisconsin
+55003	55.0	3.0	Ashland	WI	Wisconsin
+55005	55.0	5.0	Barron	WI	Wisconsin
+55007	55.0	7.0	Bayfield	WI	Wisconsin
+55009	55.0	9.0	Brown	WI	Wisconsin
+55011	55.0	11.0	Buffalo	WI	Wisconsin
+55013	55.0	13.0	Burnett	WI	Wisconsin
+55015	55.0	15.0	Calumet	WI	Wisconsin
+55017	55.0	17.0	Chippewa	WI	Wisconsin
+55019	55.0	19.0	Clark	WI	Wisconsin
+55021	55.0	21.0	Columbia	WI	Wisconsin
+55023	55.0	23.0	Crawford	WI	Wisconsin
+55025	55.0	25.0	Dane	WI	Wisconsin
+55027	55.0	27.0	Dodge	WI	Wisconsin
+55029	55.0	29.0	Door	WI	Wisconsin
+55031	55.0	31.0	Douglas	WI	Wisconsin
+55033	55.0	33.0	Dunn	WI	Wisconsin
+55035	55.0	35.0	Eau Claire	WI	Wisconsin
+55037	55.0	37.0	Florence	WI	Wisconsin
+55039	55.0	39.0	Fond du Lac	WI	Wisconsin
+55041	55.0	41.0	Forest	WI	Wisconsin
+55043	55.0	43.0	Grant	WI	Wisconsin
+55045	55.0	45.0	Green	WI	Wisconsin
+55047	55.0	47.0	Green Lake	WI	Wisconsin
+55049	55.0	49.0	Iowa	WI	Wisconsin
+55051	55.0	51.0	Iron	WI	Wisconsin
+55053	55.0	53.0	Jackson	WI	Wisconsin
+55055	55.0	55.0	Jefferson	WI	Wisconsin
+55057	55.0	57.0	Juneau	WI	Wisconsin
+55059	55.0	59.0	Kenosha	WI	Wisconsin
+55061	55.0	61.0	Kewaunee	WI	Wisconsin
+55063	55.0	63.0	La Crosse	WI	Wisconsin
+55065	55.0	65.0	Lafayette	WI	Wisconsin
+55067	55.0	67.0	Langlade	WI	Wisconsin
+55069	55.0	69.0	Lincoln	WI	Wisconsin
+55071	55.0	71.0	Manitowoc	WI	Wisconsin
+55073	55.0	73.0	Marathon	WI	Wisconsin
+55075	55.0	75.0	Marinette	WI	Wisconsin
+55077	55.0	77.0	Marquette	WI	Wisconsin
+55078	55.0	78.0	Menominee	WI	Wisconsin
+55079	55.0	79.0	Milwaukee	WI	Wisconsin
+55081	55.0	81.0	Monroe	WI	Wisconsin
+55083	55.0	83.0	Oconto	WI	Wisconsin
+55085	55.0	85.0	Oneida	WI	Wisconsin
+55087	55.0	87.0	Outagamie	WI	Wisconsin
+55089	55.0	89.0	Ozaukee	WI	Wisconsin
+55091	55.0	91.0	Pepin	WI	Wisconsin
+55093	55.0	93.0	Pierce	WI	Wisconsin
+55095	55.0	95.0	Polk	WI	Wisconsin
+55097	55.0	97.0	Portage	WI	Wisconsin
+55099	55.0	99.0	Price	WI	Wisconsin
+55101	55.0	101.0	Racine	WI	Wisconsin
+55103	55.0	103.0	Richland	WI	Wisconsin
+55105	55.0	105.0	Rock	WI	Wisconsin
+55107	55.0	107.0	Rusk	WI	Wisconsin
+55109	55.0	109.0	St Croix	WI	Wisconsin
+55111	55.0	111.0	Sauk	WI	Wisconsin
+55113	55.0	113.0	Sawyer	WI	Wisconsin
+55115	55.0	115.0	Shawano	WI	Wisconsin
+55117	55.0	117.0	Sheboygan	WI	Wisconsin
+55119	55.0	119.0	Taylor	WI	Wisconsin
+55121	55.0	121.0	Trempealeau	WI	Wisconsin
+55123	55.0	123.0	Vernon	WI	Wisconsin
+55125	55.0	125.0	Vilas	WI	Wisconsin
+55127	55.0	127.0	Walworth	WI	Wisconsin
+55129	55.0	129.0	Washburn	WI	Wisconsin
+55131	55.0	131.0	Washington	WI	Wisconsin
+55133	55.0	133.0	Waukesha	WI	Wisconsin
+55135	55.0	135.0	Waupaca	WI	Wisconsin
+55137	55.0	137.0	Waushara	WI	Wisconsin
+55139	55.0	139.0	Winnebago	WI	Wisconsin
+55141	55.0	141.0	Wood	WI	Wisconsin
+56001	56.0	1.0	Albany	WY	Wyoming
+56003	56.0	3.0	Big Horn	WY	Wyoming
+56005	56.0	5.0	Campbell	WY	Wyoming
+56007	56.0	7.0	Carbon	WY	Wyoming
+56009	56.0	9.0	Converse	WY	Wyoming
+56011	56.0	11.0	Crook	WY	Wyoming
+56013	56.0	13.0	Fremont	WY	Wyoming
+56015	56.0	15.0	Goshen	WY	Wyoming
+56017	56.0	17.0	Hot Springs	WY	Wyoming
+56019	56.0	19.0	Johnson	WY	Wyoming
+56021	56.0	21.0	Laramie	WY	Wyoming
+56023	56.0	23.0	Lincoln	WY	Wyoming
+56025	56.0	25.0	Natrona	WY	Wyoming
+56027	56.0	27.0	Niobrara	WY	Wyoming
+56029	56.0	29.0	Park	WY	Wyoming
+56031	56.0	31.0	Platte	WY	Wyoming
+56033	56.0	33.0	Sheridan	WY	Wyoming
+56035	56.0	35.0	Sublette	WY	Wyoming
+56037	56.0	37.0	Sweetwater	WY	Wyoming
+56039	56.0	39.0	Teton	WY	Wyoming
+56041	56.0	41.0	Uinta	WY	Wyoming
+56043	56.0	43.0	Washakie	WY	Wyoming
+56045	56.0	45.0	Weston	WY	Wyoming
+08014	8.0	14.0	Broomfield	CO	Colorado
+12086	12.0	86.0	Miami-Dade	FL	Florida
+02105	2.0	105.0	Hoonah–Angoon Census Area	AK	Alaska
+02195	2.0	195.0	Petersburg Borough	AK	Alaska
+02198	2.0	198.0	Prince of Wales-Hyder Census Area	AK	Alaska
+02230	2.0	230.0	Skagway Municipality	AK	Alaska
+02275	2.0	275.0	Wrangell City and Borough	AK	Alaska
+15005	15.0	5.0	Kalawao	HI	Hawaii
