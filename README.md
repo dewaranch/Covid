@@ -1,7 +1,7 @@
 covid19
 ==============================
 
-A short description of the project.
+Forecasting of COVID-19 deaths using county level demographic data and past trends.
 
 Project Organization
 ------------
